@@ -3,7 +3,7 @@ layout: default
 ---
 ### When
 
-The week of 13th to 17th June 2016.
+Tuesday 14th to Thursday 16th June 2016.
 
 ### Where
 
