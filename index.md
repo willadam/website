@@ -1,17 +1,15 @@
 ---
 layout: default
 ---
-### When
 
-Tuesday 14th to Thursday 16th June 2016.
+### Events
 
-### Where
+* [FOSS4G UK 2016](/foss4guk2016)
 
-    Ordnance Survey
-    Explorer House
-    Adanac Drive
-    Southampton
-    SO16 0AS
+#### Past events
+
+* [PostGIS Day 2014](http://osgeouk.github.io/pgday/)
+* [FOSS4G 2013](http://2013.foss4g.org/)
 
 ### Contact
 
