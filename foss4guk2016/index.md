@@ -17,6 +17,7 @@ In other words like this only a bit smaller.
 ### When
 
 Tuesday 14th to Thursday 16th June 2016.
+
 * Main Conference: Tuesday 14th and Wednesday 15th June
 * Hackathon: Thursday 16th June
 
