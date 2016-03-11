@@ -11,6 +11,9 @@ On June 14th to 16th this year, OSGeo:UK will be bringing together open source G
 * Code sprints: developing
 * Un-conference sessions: self-organised
 
+In other words like this only a bit smaller.
+[![FOSS4G 2013](https://farm4.staticflickr.com/3701/9904213276_5878810d5b_b.jpg)](https://www.flickr.com/photos/spacedman/9904213276/in/pool-foss4g/"Banner")
+
 ### When
 
 Tuesday 14th to Thursday 16th June 2016.
