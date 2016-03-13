@@ -49,6 +49,10 @@ Registration will be open soon - look out for further announcements.
 
 Accomodation will be self-booked - we will be posting details soon.
 
+### Sponsorship
+
+We want to keep the cost of entry to FOSS4GUK as low as possible - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. To find out about sponsorship, send Steven a message via [http://knowwhereconsulting.co.uk/contact/](http://knowwhereconsulting.co.uk/contact/).
+
 ### Code of Conduct
 
 Participants at FOSS4G UK 2016 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
