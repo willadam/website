@@ -49,7 +49,8 @@ Registration will be open soon - look out for further announcements.
 
 Accommodation will be self-booked - we will be posting details soon.
 
-### [Sponsorship](http://uk.osgeo.org/foss4guk2016/sponsors.md)
+### [Sponsorship](http://uk.osgeo.org/foss4guk2016/sponsors.html)
+
 
 We have our first sponsors - thank you to Garsdale Design! Further sponsors will be confirmed shortly.
 We want to keep the cost of entry to FOSS4GUK as low as possible - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. To find out about sponsorship, send Steven a message via [http://knowwhereconsulting.co.uk/contact/](http://knowwhereconsulting.co.uk/contact/).
