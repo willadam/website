@@ -4,3 +4,8 @@ header h1 {
     background-size: 28px;
     padding-left: 32px;
 }
+
+body.foss4guk2016 footer img {
+    height: 40px;
+    padding: 1em;
+}

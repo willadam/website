@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: foss4guk2016
 ---
 ## FOSS4G UK 2016
 
