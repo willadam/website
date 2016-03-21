@@ -14,3 +14,11 @@ layout: default
 ### Contact
 
 For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk).
+
+### Legal
+
+OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016, can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf)
+
+* Chair: [Jo Cook](https://twitter.com/archaeogeek)
+* Treasurer: [Steven Feldman](https://twitter.com/StevenFeldman)
+* Secretary: [Antony Scott](https://twitter.com/antscott)
