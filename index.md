@@ -13,7 +13,7 @@ layout: default
 
 ### Contact
 
-For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk).
+For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk)
 
 ### Legal
 
