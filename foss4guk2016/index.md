@@ -49,7 +49,7 @@ Registration will be open soon - look out for further announcements.
 
 Accommodation will be self-booked - we will be posting details soon.
 
-### [Sponsorship](http://uk.osgeo.org/foss4guk2016/sponsors.html)
+### [Sponsorship](sponsors.html)
 
 
 We have our first sponsors - thank you to Garsdale Design! Further sponsors will be confirmed shortly.
