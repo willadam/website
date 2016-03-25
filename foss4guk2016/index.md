@@ -1,9 +1,9 @@
 ---
 layout: foss4guk2016
 ---
-## FOSS4G UK 2016
+![alt text](images/foss4guk_2016_logo.png "FOSS4G UK 2016")
 
-On June 14th to 16th this year, OSGeo:UK will be bringing together open source GIS users (current and potential), developers and supporters from the UK and beyond for two days of conferencing and a day's hackathon at the Ordnance Survey offices in Southampton. There will be workshops, presentations, un-conference sessions, code sprints and plenty of socialising too.
+On June 14th to 16th this year, OSGeo:UK will be bringing together open source GIS users (current and potential), developers and supporters from the UK and beyond for **FOSS4G UK 2016**: two days of conferencing plus a day's hackathon at the Ordnance Survey offices in Southampton. There will be workshops, presentations, un-conference sessions, code sprints, and plenty of socialising too.
 
 Submit your proposals by 30th April using [this form](https://docs.google.com/forms/d/13wSDVU-EaUumNxypVJ5Jgc0qKFDdGrXTxynHkSIcfDo/viewform).
 
@@ -14,7 +14,7 @@ Submit your proposals by 30th April using [this form](https://docs.google.com/fo
 * Code sprints: developing
 * Un-conference sessions: self-organised
 
-In other words like this only perhaps a bit smaller.
+In other words like this ([FOSS4G 2013, Nottingham](http://2013.foss4g.org/)) only perhaps a bit smaller.
 [![FOSS4G 2013](https://farm4.staticflickr.com/3774/9904608205_bca6385c81_b.jpg)](https://www.flickr.com/photos/spacedman/9904213276/in/pool-foss4g/)
 
 ### When
@@ -52,7 +52,7 @@ Accommodation will be self-booked - we will be posting details soon.
 ### [Sponsorship](sponsors.html)
 
 
-We have our first sponsors - thank you to Garsdale Design! Further sponsors will be confirmed shortly.
+We have our first sponsors - thank you to Astun Technology, Google and Garsdale Design! Further sponsors will be confirmed shortly.
 We want to keep the cost of entry to FOSS4GUK as low as possible - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. To find out about sponsorship, send Steven a message via [http://knowwhereconsulting.co.uk/contact/](http://knowwhereconsulting.co.uk/contact/).
 
 ### Code of Conduct
