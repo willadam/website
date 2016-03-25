@@ -26,7 +26,7 @@ Tuesday 14th to Thursday 16th June 2016.
 
 ### Where
 
-The conference will be at the Ordnance Survey's **Explorer House Business Centre** in Southampton, described as "...one of the most sustainable buildings of its kind in Britain...its modern, comfortable and stylish surroundings are equipped with all the latest technology, with easy access to all areas, an induction loop system and adaptable facilities...".
+The conference will be at the Ordnance Survey's [![Explorer House Business Centre](https://www.ordnancesurvey.co.uk/about/head-office/) in Southampton, described as "...one of the most sustainable buildings of its kind in Britain...its modern, comfortable and stylish surroundings are equipped with all the latest technology, with easy access to all areas, an induction loop system and adaptable facilities...".
 
     Ordnance Survey
     Explorer House
@@ -40,6 +40,8 @@ The conference will be at the Ordnance Survey's **Explorer House Business Centre
 * Rail: There are regular services from London Waterloo and stations on the CrossCountry Trains lines to Southampton Airport Parkway and Southampton Central station.
 * Taxis: are available outside both station exits. The journey time to Ordnance Survey is approximately 15 minutes.
 * Buses: to OS stop near the platform 1 exit. The number 1 bus is a direct link from the station to Adanac Park and takes approximately 25 minutes, alighting at the bus stop on Adanac Drive.
+
+For full details, see [![here](https://www.ordnancesurvey.co.uk/about/head-office/)
 
 ### Registration
 
