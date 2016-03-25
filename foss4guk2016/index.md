@@ -41,7 +41,7 @@ The conference will be at the Ordnance Survey's [Explorer House Business Centre]
 * Taxis: are available outside both station exits. The journey time to Ordnance Survey is approximately 15 minutes.
 * Buses: to OS stop near the platform 1 exit. The number 1 bus is a direct link from the station to Adanac Park and takes approximately 25 minutes, alighting at the bus stop on Adanac Drive.
 
-For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/)
+For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/).
 
 ### Registration
 
