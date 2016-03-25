@@ -9,7 +9,7 @@ FOSS4G UK thanks our generous sponsors.
 
 ---
 <a name="astun"></a>
-[![alt text](images/astun_lge.png "Astun")](http://www.astuntechnology.com) 
+[![alt text](images/astun_lge.jpg "Astun")](http://www.astuntechnology.com) 
 
 At [Astun](http://www.astuntechnology.com) we are passionate about geography and passionate about open (source, standards and data), and to be honest we are a bit geeky. We believe that the power of geography can enable our clients to manage assets more efficiently, inform better decisions, improve services and drive down costs. We want to help you to realise those benefits via an open and transparent business model that does not penalise clients when their demand increases or needs change, and which allows us to run a successful and sustainable business.
 
