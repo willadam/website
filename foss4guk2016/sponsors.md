@@ -27,5 +27,9 @@ We believe that open source is a game changer within our industry that delivers 
 They offer a full range of services from high quality visualisation, project based support, training, custom rule and python scripting. 
 
 ---
+<a name="anguscouncil"></a>
+[![alt text](images/angus_council_logo.png "Angus Council")](http://www.angus.gov.uk/)
+
+---
 
 
