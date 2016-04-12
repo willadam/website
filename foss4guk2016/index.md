@@ -47,7 +47,7 @@ For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/
 
 ### Registration
 
-The first batch of early bird tickets will be released on Wednesday 13th April 2016, check back here for instructions!
+The first batch of early bird tickets will be released at 9am on Wednesday 13th April 2016, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
 
 ### Accommodation
 
