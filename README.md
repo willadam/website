@@ -1,6 +1,6 @@
 # FOSS4G UK 2016 Website
 
-http://osgeouk.github.io/foss4guk2016/
+http://uk.osgeo.org/foss4guk2016/
 
 ## Updating the site
 

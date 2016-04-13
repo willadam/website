@@ -7,7 +7,7 @@ On June 14th to 16th this year, OSGeo:UK will be bringing together open source G
 
 Submit your proposals by 30th April using [this form](https://docs.google.com/forms/d/13wSDVU-EaUumNxypVJ5Jgc0qKFDdGrXTxynHkSIcfDo/viewform).
 
-**The first batch of early bird tickets will be released on 13th April 2016. Check [here](#registration) for further instructions!**
+**The first batch of early bird tickets is now available. Check [here](#registration) for further instructions!**
 
 ### What
 
@@ -47,7 +47,7 @@ For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/
 
 ### Registration
 
-The first batch of early bird tickets will be released at 9am on Wednesday 13th April 2016, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
+The first batch of early bird tickets is now available, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
 
 ### Accommodation
 
