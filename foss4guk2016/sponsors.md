@@ -16,10 +16,27 @@ At [Astun](http://www.astuntechnology.com) we are passionate about geography and
 We believe that open source is a game changer within our industry that delivers robust, scalable technology, and market leading value through a collaborative model that matches the way we and our clients want to work.
 
 ---
+
+<a name="thinkWhere"></a>
+[![alt text](images/thinkWhere_logo.png "thinkWhere")](http://www.thinkwhere.com)
+
+thinkWhere is one of the leading independent GIS consultancies in the UK. We’re based in Scotland with customers across the UK, and are specialists in the use of geographic information, digital mapping and the technologies which use them. Specialising in the use of Open Source GIS technologies, we use globally leading technologies such as QGIS, PostgreSQL/PostGIS, GeoServer and Openlayers. Our online GIS platform, Location Centre, is built using these components and provides our customers with easy access to web GIS, web mapping and web services. For further information please contact info@thinkwhere.com or see our [website](www.thinkwhere.com)
+
+---
+
+<a name="what3words"></a>
+[![alt text](images/what3words_logo.png "what3words")](http://www.what3words.com)
+
+what3words is a location reference system based on a global grid of 57 trillion 3mx3m squares; each square has been pre-assigned a unique 3 word address.
+Easier to remember & communicate than GPS, quicker & more cost effective to implement than street addressing this is a global & human-friendly system.
+
+---
+
 <a name="google"></a>
 [![alt text](images/google_small.png "Google")](http://www.google.com)
 
 ---
+
 <a name="garsdaledesign"></a>
 [![alt text](images/garsdale_small.jpg "Garsdale Design")](http://www.garsdaledesign.co.uk)
 
