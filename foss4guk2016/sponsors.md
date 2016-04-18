@@ -17,6 +17,13 @@ We believe that open source is a game changer within our industry that delivers 
 
 ---
 
+<a name="google"></a>
+[![alt text](images/google_small.png "Google")](http://www.google.com)
+
+Google’s Open Source Programs Office serves the open source community through code releases, student outreach and the provision of resources. Recognising the vital role that open source software plays at Google, the Open Source Programs Office is tasked with maintaining a healthy relationship with the open source software development community. For more info see [developers.google.com](https://developers.google.com/open-source/)
+
+---
+
 <a name="thinkWhere"></a>
 [![alt text](images/thinkWhere_logo.png "thinkWhere")](http://www.thinkwhere.com)
 
@@ -29,11 +36,6 @@ thinkWhere is one of the leading independent GIS consultancies in the UK. We’r
 
 what3words is a location reference system based on a global grid of 57 trillion 3mx3m squares; each square has been pre-assigned a unique 3 word address.
 Easier to remember & communicate than GPS, quicker & more cost effective to implement than street addressing this is a global & human-friendly system.
-
----
-
-<a name="google"></a>
-[![alt text](images/google_small.png "Google")](http://www.google.com)
 
 ---
 
