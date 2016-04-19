@@ -51,7 +51,7 @@ They offer a full range of services from high quality visualisation, project bas
 
 ---
 
-<a name="Geoger"></a>
+<a name="geoger"></a>
 [![alt text](images/geoger_web.png "Geoger")](https://geoger.co.uk/)
 
 [Geoger Ltd](https://geoger.co.uk/) is a spatial and environmental data consultancy, specialising in remote sensing, image processing, and environmental and spatial data analysis. We primarily use open-source software and advocate the inclusion of open data, with the aim of increasing commercial and general awareness of remote sensing and open-source.
