@@ -38,6 +38,10 @@ what3words is a location reference system based on a global grid of 57 trillion 
 Easier to remember & communicate than GPS, quicker & more cost effective to implement than street addressing this is a global & human-friendly system.
 
 ---
+<a name="anguscouncil"></a>
+[![alt text](images/angus_council_logo.png "Angus Council")](http://www.angus.gov.uk/)
+
+---
 
 <a name="garsdaledesign"></a>
 [![alt text](images/garsdale_small.jpg "Garsdale Design")](http://www.garsdaledesign.co.uk)
@@ -46,9 +50,10 @@ Easier to remember & communicate than GPS, quicker & more cost effective to impl
 They offer a full range of services from high quality visualisation, project based support, training, custom rule and python scripting. 
 
 ---
-<a name="anguscouncil"></a>
-[![alt text](images/angus_council_logo.png "Angus Council")](http://www.angus.gov.uk/)
 
----
+<a name="Geoger"></a>
+[![alt text](images/geoger_web.png "Geoger")](https://geoger.co.uk/)
+
+[Geoger Ltd](https://geoger.co.uk/) is a spatial and environmental data consultancy, specialising in remote sensing, image processing, and environmental and spatial data analysis. We primarily use open-source software and advocate the inclusion of open data, with the aim of increasing commercial and general awareness of remote sensing and open-source.
 
 
