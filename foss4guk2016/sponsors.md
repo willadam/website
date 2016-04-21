@@ -19,6 +19,8 @@ We believe that open source is a game changer within our industry that delivers 
 <a name="esriuk"></a>
 [![alt text](images/esri_logo.png "Esri UK")](http://www.esriuk.com) 
 
+Esri is an important voice in the GIS community, working for almost 40 years to promote and develop the use and benefit of spatial technologies across society using our ArcGIS Platform. Esri UK carries out this work in the UK and Ireland, we are looking forward to FOSS4GUK 2016 and the chance to engage and learn from the wider spatial community.
+
 ---
 
 <a name="google"></a>
