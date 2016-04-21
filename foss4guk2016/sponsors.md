@@ -16,6 +16,10 @@ At [Astun](http://www.astuntechnology.com) we are passionate about geography and
 We believe that open source is a game changer within our industry that delivers robust, scalable technology, and market leading value through a collaborative model that matches the way we and our clients want to work.
 
 ---
+<a name="esriuk"></a>
+[![alt text](images/esri_logo.png "Esri UK")](http://www.esriuk.com) 
+
+---
 
 <a name="google"></a>
 [![alt text](images/google_small.png "Google")](http://www.google.com)
