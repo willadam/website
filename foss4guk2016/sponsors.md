@@ -55,6 +55,8 @@ Easier to remember & communicate than GPS, quicker & more cost effective to impl
 <a name="anguscouncil"></a>
 [![alt text](images/angus_council_logo.png "Angus Council")](http://www.angus.gov.uk/)
 
+Angus Council uses free and open source software to deliver robust and reliable GIS capability to its staff and customers. It actively promotes the use of FOSS4G through the organisation and support of the UK QGIS user group in Scotland.
+
 ---
 
 <a name="garsdaledesign"></a>
