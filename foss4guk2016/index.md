@@ -7,7 +7,7 @@ On June 14th to 16th this year, OSGeo:UK will be bringing together open source G
 
 Submit your proposals by 30th April using [this form](https://docs.google.com/forms/d/13wSDVU-EaUumNxypVJ5Jgc0qKFDdGrXTxynHkSIcfDo/viewform).
 
-**The first batch of early bird tickets is now available. Check [here](#registration) for further instructions!**
+**Reduced price tickets are now available! Check [here](#registration) for further instructions!**
 
 ### What
 
@@ -47,7 +47,7 @@ For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/
 
 ### Registration
 
-The first batch of early bird tickets is now available, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
+Reduced price tickets are now available, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
 
 ### Accommodation
 
@@ -55,8 +55,6 @@ Accommodation will be self-booked - we will be posting details soon.
 
 ### [Sponsorship](sponsors.html)
 
-
-We have our first sponsors - thank you to Astun Technology, Google and Garsdale Design! Further sponsors will be confirmed shortly.
 We want to keep the cost of entry to FOSS4GUK as low as possible - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. To find out about sponsorship, send Steven a message via [http://knowwhereconsulting.co.uk/contact/](http://knowwhereconsulting.co.uk/contact/).
 
 ### Code of Conduct
