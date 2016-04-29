@@ -41,7 +41,7 @@ We are technology agnostic and over the years have utilised a range of geospatia
 <a name="thinkWhere"></a>
 [![alt text](images/thinkWhere_logo.png "thinkWhere")](http://www.thinkwhere.com)
 
-thinkWhere is one of the leading independent GIS consultancies in the UK. We’re based in Scotland with customers across the UK, and are specialists in the use of geographic information, digital mapping and the technologies which use them. Specialising in the use of Open Source GIS technologies, we use globally leading technologies such as QGIS, PostgreSQL/PostGIS, GeoServer and Openlayers. Our online GIS platform, Location Centre, is built using these components and provides our customers with easy access to web GIS, web mapping and web services. For further information please contact info@thinkwhere.com or see our [website](www.thinkwhere.com)
+thinkWhere is one of the leading independent GIS consultancies in the UK. We’re based in Scotland with customers across the UK, and are specialists in the use of geographic information, digital mapping and the technologies which use them. Specialising in the use of Open Source GIS technologies, we use globally leading technologies such as QGIS, PostgreSQL/PostGIS, GeoServer and Openlayers. Our online GIS platform, Location Centre, is built using these components and provides our customers with easy access to web GIS, web mapping and web services. For further information please contact info@thinkwhere.com or see our [website](http://www.thinkwhere.com)
 
 ---
 
