@@ -5,7 +5,7 @@ layout: foss4guk2016
 
 On June 14th to 16th this year, OSGeo:UK will be bringing together open source GIS users (current and potential), developers and supporters from the UK and beyond for **FOSS4G UK 2016**: two days of conferencing plus a day's hackathon at the Ordnance Survey offices in Southampton. There will be workshops, presentations, un-conference sessions, code sprints, and plenty of socialising too.
 
-Submit your proposals by 3rd May using [this form](https://docs.google.com/forms/d/13wSDVU-EaUumNxypVJ5Jgc0qKFDdGrXTxynHkSIcfDo/viewform).
+Our Call for Papers has now closed, thanks to everyone who submitted a proposal. Watch this space for a programme soon!
 
 **Reduced price tickets are now available! Check [here](#registration) for further instructions!**
 
