@@ -5,40 +5,40 @@ layout: foss4guk2016
 
 |Title| Main Presenter |
 |-----|-------------|
-|<a target="abstracts" href="abstracts.html#nicholasdugganps">From 2.5D to 4D Exploring other dimensions</a>| Nicholas Duggan|
-|<a target="abstracts" href="abstracts.html#simonmiles">Open-Source goodies for Local Government</a>| Simon Miles|
-|<a target="abstracts" href="abstracts.html#suchithanandps">Geo4All - Empowering Communities for a better world</a>| Suchith Anand|
-|<a target="abstracts" href="abstracts.html#ianturtonps2">Making Pretty Web Maps| Ian Turton</a>|
-|<a target="abstracts" href="abstracts.html#robertward">Improving Open Source GIS Workflow with a SLD Editor</a>| Robert Ward|
-|<a target="abstracts" href="abstracts.html#ianturtonps">Earning your support instead of buying it</a>| Ian Turton|
-|<a target="abstracts" href="abstracts.html#charleyglynnps">What time is it? It's Maptime!</a>| Charley Glynn|
-|<a target="abstracts" href="abstracts.html#aileenhealps2">Managing National Load MasterMap and Maintaining History</a>| Aileen Heal|
-|<a target="abstracts" href="abstracts.html#johnstevenson">roadNet: a tale of QGIS, automatic feature updating and repositories in the cloud</a>| John Stevenson|
-|<a target="abstracts" href="abstracts.html#alastairgraham">Now you see it: open software for processing open satellite data</a>| Alastair Graham|
-|<a target="abstracts" href="abstracts.html#davebarter">Finding Road Gradients With Opensource Data and Tools</a>| Dave Barter|
-|<a target="abstracts" href="abstracts.html#stevenkayps">Using Blender for 3d and animated mapping</a>| Steven Kay|
-|<a target="abstracts" href="abstracts.html#ilonakemmeling">Local Government working towards Scotland-wide spatial data</a>| 
+|[From 2.5D to 4D Exploring other dimensions](abstracts.html#from-25d-to-4d-exploring-other-dimensions)| Nicholas Duggan|
+|[Open-Source goodies for Local Government](abstracts.html#open-source-goodies-for-local-government)| Simon Miles|
+|[Geo4All - Empowering Communities for a better world](abstracts.html#geo4all---empowering-communities-for-a-better-world)| Suchith Anand|
+|[Making Pretty Web Maps](abstracts.html#making-pretty-web-maps)| Ian Turton|
+|<a target="abstracts" href="abstracts.html#robertward">Improving Open Source GIS Workflow with a SLD Editor(abstracts.html#| Robert Ward|
+|[Earning your support instead of buying it](abstracts.html#earning-your-support-instead-of-buying-it)| Ian Turton|
+|[What time is it? It's Maptime!](abstracts.html#what-time-is-it-its-maptime)| Charley Glynn|
+|[Managing National Load MasterMap and Maintaining History](abstracts.html#managing-national-load-mastermap-and-maintaining-history)| Aileen Heal|
+|[roadNet: a tale of QGIS, automatic feature updating and repositories in the cloud](abstracts.html#roadnet-a-tale-of-qgis-automatic-feature-updating-and-repositories-in-the-cloud)| John Stevenson|
+|[Now you see it: open software for processing open satellite data](abstracts.html#now-you-see-it-open-software-for-processing-open-satellite-data)| Alastair Graham|
+|[Finding Road Gradients With Opensource Data and Tools](abstracts.html#finding-road-gradients-with-opensource-data-and-tools)| Dave Barter|
+|[Using Blender for 3d and animated mapping](abstracts.html#using-blender-for-3d-and-animated-mapping)| Steven Kay|
+|[Local Government working towards Scotland-wide spatial data](abstracts.html#local-government-working-towards-scotland-wide-spatial-data)| 
 Ilona Kemeling|
-|<a target="abstracts" href="abstracts.html#garethgrewcock">Processing marine DTM’s - like a boss!</a>|  Gareth Grewcock|
-|<a target="abstracts" href="abstracts.html#giuseppebroccolo">BRIN indexes on geospatial database</a>| Giuseppe Broccolo|
-|<a target="abstracts" href="abstracts.html#jamesmilnerps2">The Hard Thing About Hard Geo Things</a>| James Milner|
-|<a target="abstracts" href="abstracts.html#thomasstarnes">Species distribution modelling using open data</a>| Thomas Starnes|
-|<a target="abstracts" href="abstracts.html#charleskennelly">How to draw a polygon</a>| Charles Kennelly|
-|<a target="abstracts" href="abstracts.html#jamesmilnerps1">Making the most of Leaflet with Plugins</a>| James Milner|
-|<a target="abstracts" href="abstracts.html#saberrazmjooeips">Migrating to Open Source GIS - Case study</a>| Saber Razmjooei|
-|<a target="abstracts" href="abstracts.html#tomchadwinps">qgis2web</a>| Tom Chadwin|
-|<a target="abstracts" href="abstracts.html#guiliopagan">Bulk processing, data sharing and visualization of Sentinel-derived products</a>| Giulio Pagan|
-|<a target="abstracts" href="abstracts.html#megahanagarg">Delivering low cost spatial infrastructure in the cloud</a>| Meghana Garg|
-|<a target="abstracts" href="abstracts.html#robblackwellps">Using Python and Jupyter Notebooks for Geographical Data Munging</a>| Rob Blackwell|
-|<a target="abstracts" href="abstracts.html#isabelsargent">A machine learning approach to roof shape classification</a>| Isabel Sargent|
-|<a target="abstracts" href="abstracts.html#rossmcdonaldps">Using OS network datasets with pgRouting</a>| Ross McDonald|
-|<a target="abstracts" href="abstracts.html#andreaross">Open Collaboration and the Price of Butter</a>| Andrea Ross|
-|<a target="abstracts" href="abstracts.html#stevenfeldmanps1">There is no such thing as a free lunch</a>| Steven Feldman|
-|<a target="abstracts" href="abstracts.html#matttravis">Mapping the of Heritage of Dartmoor National Park</a>| Matt Travis|
-|<a target="abstracts" href="abstracts.html#antscottps">How to teach QGIS</a>| Ant Scott|
-|<a target="abstracts" href="abstracts.html#berttemme">GOST - Go implementation of OGC SensorThings API</a>| Bert Temme|
-|<a target="abstracts" href="abstracts.html#mattdebont">A GI Node for the Environment</a>| Matt Debont|
-|<a target="abstracts" href="abstracts.html#thomasgratierps">What OpenLayers can do for you? Usages and ecosystem</a>| Thomas Gratier|
+|[Processing marine DTM’s - like a boss!](abstracts.html#processing-marine-dtms---like-a-boss)|  Gareth Grewcock|
+|[BRIN indexes on geospatial database](abstracts.html#brin-indexes-on-geospatial-database)| Giuseppe Broccolo|
+|[The Hard Thing About Hard Geo Things](abstracts.html#the-hard-thing-about-hard-geo-things)| James Milner|
+|[Species distribution modelling using open data](abstracts.html#species-distribution-modelling-using-open-data)| Thomas Starnes|
+|[How to draw a polygon](abstracts.html#how-to-draw-a-polygon)| Charles Kennelly|
+|[Making the most of Leaflet with Plugins](abstracts.html#making-the-most-of-leaflet-with-plugins)| James Milner|
+|[Migrating to Open Source GIS - Case study](abstracts.html#migrating-to-open-source-gis---case-study)| Saber Razmjooei|
+|[qgis2web](abstracts.html#qgis2web)| Tom Chadwin|
+|[Bulk processing, data sharing and visualization of Sentinel-derived products](abstracts.html#bulk-processing-data-sharing-and-visualization-of-sentinel-derived-products)| Giulio Pagan|
+|[Delivering low cost spatial infrastructure in the cloud](abstracts.html#delivering-low-cost-spatial-infrastructure-in-the-cloud)| Meghana Garg|
+|[Using Python and Jupyter Notebooks for Geographical Data Munging](abstracts.html#using-python-and-jupyter-notebooks-for-geographical-data-munging)| Rob Blackwell|
+|[A machine learning approach to roof shape classification](abstracts.html#a-machine-learning-approach-to-roof-shape-classification)| Isabel Sargent|
+|[Using OS network datasets with pgRouting](abstracts.html#using-os-network-datasets-with-pgrouting)| Ross McDonald|
+|[Open Collaboration and the Price of Butter](abstracts.html#open-collaboration-and-the-price-of-butter)| Andrea Ross|
+|[There is no such thing as a free lunch](abstracts.html#there-is-no-such-thing-as-a-free-lunch)| Steven Feldman|
+|[Mapping the of Heritage of Dartmoor National Park](abstracts.html#mapping-the-of-heritage-of-dartmoor-national-park)| Matt Travis|
+|[How to teach QGIS](abstracts.html#how-to-teach-qgis)| Ant Scott|
+|[GOST - Go implementation of OGC SensorThings API](abstracts.html#gost---go-implementation-of-ogc-sensorthings-api)| Bert Temme|
+|[A GI Node for the Environment](abstracts.html#a-gi-node-for-the-environment)| Matt Debont|
+|[What OpenLayers can do for you? Usages and ecosystem](abstracts.html#what-openlayers-can-do-for-you-usages-and-ecosystem)| Thomas Gratier|
 
 
 
