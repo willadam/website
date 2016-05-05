@@ -9,7 +9,7 @@ layout: foss4guk2016
 |[Open-Source goodies for Local Government](abstracts.html#open-source-goodies-for-local-government)| Simon Miles|
 |[Geo4All - Empowering Communities for a better world](abstracts.html#geo4all---empowering-communities-for-a-better-world)| Suchith Anand|
 |[Making Pretty Web Maps](abstracts.html#making-pretty-web-maps)| Ian Turton|
-|<a target="abstracts" href="abstracts.html#robertward">Improving Open Source GIS Workflow with a SLD Editor(abstracts.html#| Robert Ward|
+|[Improving Open Source GIS Workflow with a SLD Editor](abstracts.html#improving-open-source-gis-workflow-with-a-sld-editor)| Robert Ward|
 |[Earning your support instead of buying it](abstracts.html#earning-your-support-instead-of-buying-it)| Ian Turton|
 |[What time is it? It's Maptime!](abstracts.html#what-time-is-it-its-maptime)| Charley Glynn|
 |[Managing National Load MasterMap and Maintaining History](abstracts.html#managing-national-load-mastermap-and-maintaining-history)| Aileen Heal|
