@@ -3,9 +3,7 @@ layout: foss4guk2016
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : Abstracts
 
-<a name="anushachickermanews1"></a>
-
-###A gentle introduction to GeoDjango and Openlayers 3###
+<a name="anushachickermanews1">###A gentle introduction to GeoDjango and Openlayers 3###</a>
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
 
