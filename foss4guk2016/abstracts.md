@@ -248,7 +248,7 @@ A quest to simplify the process of capturing and maintaining geographic data, to
 This presentation will look at the design and implementation of QGIS training, aiming to help course designers maximise learning for trainees within the constraints they are operating within. A number of different models for teaching QGIS (to people both with and without GIS experience) will be reviewed, trying to identify factors which can improve learning outcomes, and some which can hinder them. There will be recommendations for resources, structural approaches, and course curricula. Ant will draw on five years of experience running training on QGIS, covering UK local government, commercial organisations, and humanitarian organisations, from two hour workshops to three day courses.
 
 
-###Humanitarian Hack with HXL###
+### Humanitarian Hack with HXL
 
 **Ant Scott MapAction**
 
