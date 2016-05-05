@@ -17,8 +17,7 @@ layout: foss4guk2016
 |[Now you see it: open software for processing open satellite data](abstracts.html#now-you-see-it-open-software-for-processing-open-satellite-data)| Alastair Graham|
 |[Finding Road Gradients With Opensource Data and Tools](abstracts.html#finding-road-gradients-with-opensource-data-and-tools)| Dave Barter|
 |[Using Blender for 3d and animated mapping](abstracts.html#using-blender-for-3d-and-animated-mapping)| Steven Kay|
-|[Local Government working towards Scotland-wide spatial data](abstracts.html#local-government-working-towards-scotland-wide-spatial-data)| 
-Ilona Kemeling|
+|[Local Government working towards Scotland-wide spatial data](abstracts.html#local-government-working-towards-scotland-wide-spatial-data)| Ilona Kemeling|
 |[Processing marine DTM’s - like a boss!](abstracts.html#processing-marine-dtms---like-a-boss)|  Gareth Grewcock|
 |[BRIN indexes on geospatial database](abstracts.html#brin-indexes-on-geospatial-database)| Giuseppe Broccolo|
 |[The Hard Thing About Hard Geo Things](abstracts.html#the-hard-thing-about-hard-geo-things)| James Milner|
