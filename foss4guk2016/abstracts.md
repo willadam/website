@@ -5,7 +5,7 @@ layout: foss4guk2016
 
 <a name="anushachickermanews1"></a>
 
-###A gentle introduction to GeoDjango and Openlayers 3###
+### A gentle introduction to GeoDjango and Openlayers 3
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
 
@@ -21,7 +21,7 @@ Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a survey
 
 <a name="mattdebont"></a>
 
-###A GI Node for the Environment###
+### A GI Node for the Environment
 
 **Matt Debont JNCC**
 
@@ -35,7 +35,7 @@ We have developed a number of Vagrant and Ansible scripts describing our infrast
 
 <a name="isabelsargent"</a>
 
-###A machine learning approach to roof shape classification###
+### A machine learning approach to roof shape classification
 
 **Isabel Sargent Ordnance Survey / David Holland Ordnance Survey**
 
@@ -45,7 +45,7 @@ The automatic classification of roof shape from remotely sensed data has a numbe
 
 <a name="giuseppebroccolo"></a>
 
-###BRIN indexes on geospatial database###
+### BRIN indexes on geospatial database
 
 **Giuseppe Broccolo 2ndQuadrant**
 
@@ -58,7 +58,7 @@ In this talk I will present how BRIN indexes can be used on geographical databas
 
 <a name="guiliopagan"></a>
 
-###Bulk processing, data sharing and visualization of Sentinel-derived products###
+### Bulk processing, data sharing and visualization of Sentinel-derived products
 
 **Giulio Pagan Airbus Defence and Space / Andrew Groom Airbus Defence and Space**
 
@@ -80,7 +80,7 @@ This presentation provides a high level description of the APC concept and its a
 
 <a name="megahanagarg"></a>
 
-###Delivering low cost spatial infrastructure in the cloud###
+### Delivering low cost spatial infrastructure in the cloud
 
 **Meghana Garg UK Power Network / Pascal Coulon SCISYS**
 
@@ -95,7 +95,7 @@ UKPN is now enabled with a scalable and interoperable spatial platform; allowing
  
 <a name="jocook"></a>
 
-###Don't be afraid to commit###
+### Don't be afraid to commit
 
 **Jo Cook Astun Technology**
 
@@ -105,7 +105,7 @@ This workshop will aim to help beginners with the technologies and workflows the
 
 <a name="ianturtonps"></a>
 
-###Earning your support instead of buying it###
+### Earning your support instead of buying it
 
 **Ian Turton Astun Technology**
 
@@ -151,7 +151,7 @@ the next day.
 
 <a name="davebarter"></a>
 
-###Finding Road Gradients With Opensource Data and Tools###
+### Finding Road Gradients With Opensource Data and Tools
 
 **Dave Barter Nautoguide Ltd.**
 
@@ -239,7 +239,7 @@ A quest to simplify the process of capturing and maintaining geographic data, to
 
 <a name="antscottps"></a>
 
-###How to teach QGIS###
+### How to teach QGIS
 
 **Ant Scott Astun Technology**
 
