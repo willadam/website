@@ -5,7 +5,7 @@ layout: foss4guk2016
 
 <a name="anushachickermanews1"></a>
 
-### A gentle introduction to GeoDjango and Openlayers 3
+###  A gentle introduction to GeoDjango and Openlayers 3
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
 
@@ -21,7 +21,7 @@ Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a survey
 
 <a name="mattdebont"></a>
 
-### A GI Node for the Environment
+###  A GI Node for the Environment
 
 **Matt Debont JNCC**
 
@@ -33,9 +33,9 @@ This node will provide a single point for government agencies and the general pu
 
 We have developed a number of Vagrant and Ansible scripts describing our infrastructure, allowing us to tailor our solution to suit a range of environments and configurations. Alongside this infrastructure we are working on a number of applications to work with our node to share data, derive new products and visualise the output. This talk will discuss the current state of our developments, some of our current processing chains and derived products, issues we have encountered so far and where we plan to go from here.
 
-<a name="isabelsargent"</a>
+<a name="isabelsargent"></a>
 
-### A machine learning approach to roof shape classification
+###  A machine learning approach to roof shape classification
 
 **Isabel Sargent Ordnance Survey / David Holland Ordnance Survey**
 
@@ -161,7 +161,7 @@ Road gradient markers are incredibly useful. They tell us where the "steepness" 
 
 <a name="nicholasdugganps"></a>
 
-###From 2.5D to 4D Exploring other dimensions###
+### From 2.5D to 4D Exploring other dimensions
 
 **Nicholas Duggan Garsdale Design Ltd / Elliot Hartley Garsdale Design Ltd**
 
@@ -172,7 +172,7 @@ This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time M
 
 <a name="nicholasdugganws"></a>
 
-###From 2.5D to 4D, Into further Dimensions###
+### From 2.5D to 4D, Into further Dimensions 
 
 **Nicholas Duggan Garsdale Design Ltd / Elliot Hartley Garsdale Design Ltd**
 
@@ -181,7 +181,7 @@ This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time M
 Demonstrating how 2.5D, 3D & 4D are used in Urban Planning and how it is achieved using open source. 
 This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time Manager. 
 
-###Geo4All - Empowering Communities for a better world###
+### Geo4All - Empowering Communities for a better world 
 
 <a name="suchithanandps"></a>
 
@@ -193,7 +193,7 @@ This presentation will introduce the Geo4All initiative and show how universitie
 
 <a name="sebastianovide"></a>
 
-###GeoFire — Realtime location queries with Firebase###
+### GeoFire — Realtime location queries with Firebase
 
 **Sebastian Ovide Ordnance Survey (Geovation)**
 
@@ -204,7 +204,7 @@ We'll write a serverless web app using Firebase as backend and GeoFire to store 
 
 <a name="thomasgratierws"></a>
 
-###Getting started with Openlayers###
+### Getting started with Openlayers
 
 **Thomas Gratier WebGeoDataVore**
 
@@ -215,7 +215,7 @@ Along, you will learn where and how to use Openlayers ressources when you need t
 
 <a name="berttemme"></a>
 
-###GOST - Go implementation of OGC SensorThings API###
+### GOST - Go implementation of OGC SensorThings API
 
 **Bert Temme Geodan**
 
@@ -229,7 +229,7 @@ https://github.com/geodan/gost
 
 <a name="charleskennelly"></a>
 
-###How to draw a polygon###
+### How to draw a polygon
 
 **Charles Kennelly Esri UK**
 
@@ -248,7 +248,7 @@ A quest to simplify the process of capturing and maintaining geographic data, to
 This presentation will look at the design and implementation of QGIS training, aiming to help course designers maximise learning for trainees within the constraints they are operating within. A number of different models for teaching QGIS (to people both with and without GIS experience) will be reviewed, trying to identify factors which can improve learning outcomes, and some which can hinder them. There will be recommendations for resources, structural approaches, and course curricula. Ant will draw on five years of experience running training on QGIS, covering UK local government, commercial organisations, and humanitarian organisations, from two hour workshops to three day courses.
 
 
-### Humanitarian Hack with HXL
+###  Humanitarian Hack with HXL
 
 **Ant Scott MapAction**
 
@@ -258,7 +258,7 @@ HXL (Humanitarian Exchange Language) has been released this year - a new standar
 
 <a name="robertward"></a>
 
-###Improving Open Source GIS Workflow with a SLD Editor###
+### Improving Open Source GIS Workflow with a SLD Editor
 
 **Robert Ward SciSys**
 
@@ -280,7 +280,7 @@ The talk will conclude with an outline of the future roadmap for the application
 
 <a name="ianturtonws1"></a>
 
-###Introduction to GeoServer###
+### Introduction to GeoServer
 
 **Ian Turton Astun Technology**
 
@@ -291,7 +291,7 @@ This workshop will cover how to install a local copy of GeoServer and take you t
 
 <a name="aileenhealws"></a>
 
-###Loading OS MasterMap, OS OpenData and other OS GML datasets using Loader###
+### Loading OS MasterMap, OS OpenData and other OS GML datasets using Loader
 
 **Aileen Heal Astun Technology / Matt Walker Astun Technology**
 
@@ -303,7 +303,7 @@ The workshop will use the portable GIS.
 
 <a name="ilonakemmeling"></a>
 
-###Local Government working towards Scotland-wide spatial data###
+### Local Government working towards Scotland-wide spatial data
 
 **Ilona Kemeling Kemeling Consulting Limited / Dimitrios Michelakis The Improvement Service**
 
@@ -316,7 +316,7 @@ The use of existing open-source components enabled us to develop the Spatial Hub
 
 <a name="barryrowlingsonws"></a>
 
-###Making Maps in R###
+### Making Maps in R
 
 **Barry Rowlingson Medical School, Lancaster University**
 
@@ -326,7 +326,7 @@ The R statistical software system now has, alongside its GIS functions, lots of 
 
 <a name="ianturtonps2"></a>
 
-###Making Pretty Web Maps###
+### Making Pretty Web Maps
 
 **Ian Turton Astun Technology**
 
@@ -351,7 +351,7 @@ pretty effects that can enhance your web mapping.
 
 <a name="jamesmilnerps1"></a>
 
-###Making the most of Leaflet with Plugins###
+### Making the most of Leaflet with Plugins
 
 **James Milner Ordnance Survey**
 
@@ -362,7 +362,7 @@ Leaflet aim's to be light weight. As such sometimes it misses out on functionali
 
 <a name="aileenhealps2"></a>
 
-###Managing National Load MasterMap and Maintaining History###
+### Managing National Load MasterMap and Maintaining History
 
 **Aileen Heal Astun Technology**
 
@@ -375,7 +375,7 @@ Also describes potential methods for maintaining change history,
 <a name="matttravis"></a>
 
 
-###Mapping the of Heritage of Dartmoor National Park###
+### Mapping the of Heritage of Dartmoor National Park
 
 **Matt Travis Dartmoor National Park**
 
@@ -390,7 +390,7 @@ The presentation will detail the purpose of the application, technology behind t
 
 <a name="saberrazmjooeips"></a>
 
-###Migrating to Open Source GIS - Case study###
+### Migrating to Open Source GIS - Case study
 
 **Saber Razmjooei Lutra Consulting**
 
@@ -400,7 +400,7 @@ With public sector budget cuts, Open Source GIS is an attractive way to save mon
 
 <a name="alastairgraham"></a>
 
-###Now you see it: open software for processing open satellite data###
+### Now you see it: open software for processing open satellite data
 
 **Alastair Graham Geoger Ltd**
 
@@ -410,7 +410,7 @@ This presentation provides an overview of a series of available FOSS software to
 
 <a name="andreaross"></a>
 
-###Open Collaboration and the Price of Butter###
+### Open Collaboration and the Price of Butter
 
 **Andrea Ross Eclipse Foundation**
 
@@ -424,7 +424,7 @@ And what does this all have to do with the price of butter?!
 
 <a name="simonmiles"></a>
 
-###Open-Source goodies for Local Government###
+### Open-Source goodies for Local Government
 
 **Simon Miles Royal Borough of Windsor and Maidenhead**
 
@@ -434,7 +434,7 @@ A look at the Open-Source tools and software used by Windor and Maidenhead Borou
 
 <a name="garethgrewcock"></a>
 
-###Processing marine DTM’s - like a boss!###
+### Processing marine DTM’s - like a boss!
 
 **Gareth Grewcock LR Senergy**
 
@@ -446,7 +446,7 @@ Although aimed at bathymetry datasets, the tool can scale-out to any application
 The “XYZ Bathymetry Processor” represents an alternative approach using open-source technology to overcome limitations of common “Industry standard” approaches, aimed at increasing processing efficiency and improving overall control and quality of image-rendering.
 The paper describes some of the approaches taken to overcome challenges of innovating with FOSS4G tools in the enterprise-dominated, marine energy sector where there is limited awareness to open source geospatial technology.
 
-###QGIS hackathon###
+### QGIS hackathon
 
 **Saber Razmjooei QGIS Community / Tom Chadwin QGIS Community**
 
@@ -459,7 +459,7 @@ There is no coding skills requirement for the day but prior knowledge with GitHu
 Martin Dobias, one of the QGIS core developers will be present to assist during the code sprint.  Tom Chadwin, a QGIS plugin developer who recently started contributing to the core project will be joining in person or remotely to help with documentation and plugins. Saber Razmjooei, will help with bug hunting and reporting workflow. Other power users and plugin developers from UK QGIS community will be also around to help.
 
 
-###qgis2web code sprint/hackathon###
+### qgis2web code sprint/hackathon
 
 **Tom Chadwin Northumberland National Park**
 
@@ -470,7 +470,7 @@ Help make qgis2web even better - improve the codebase, squash bugs, and add feat
 
 <a name="tomchadwinws"></a>
 
-###qgis2web: webmaps without code###
+### qgis2web: webmaps without code
 
 **Tom Chadwin Northumberland National Park**
 
@@ -480,7 +480,7 @@ Learn to make webmaps from your QGIS projects without ever touching any code, an
 
 <a name="johnstevenson"></a>
 
-###roadNet: a tale of QGIS, automatic feature updating and repositories in the cloud###
+### roadNet: a tale of QGIS, automatic feature updating and repositories in the cloud
 
 **John Stevenson thinkWhere**
 
@@ -499,7 +499,7 @@ roadNET is a QGIS plugin for managing street gazeteer data.  In addition to the 
 
 <a name="anushachickermanews2"></a>
 
-###SaaSy maps - Using django-tenants and geodjango to provide webGIS Software-as-a-Service(SaaS)###
+### SaaSy maps - Using django-tenants and geodjango to provide webGIS Software-as-a-Service(SaaS)
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
 
@@ -518,7 +518,7 @@ Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a survey
 
 <a name="thomasstarnes"></a>
 
-###Species distribution modelling using open data###
+### Species distribution modelling using open data
 
 **Thomas Starnes Amphibian and Reptile Conservation**
 
@@ -528,7 +528,7 @@ Advances in species distribution modelling are providing valuable insight into t
 
 <a name="jamesmilnerps2"></a>
 
-###The Hard Thing About Hard Geo Things###
+### The Hard Thing About Hard Geo Things
 
 **James Milner Ordnance Survey**
 
@@ -542,7 +542,7 @@ As I'm sure many attendees will have experienced, many GIS operations can take c
 
 <a name="suchithanandws"></a>
 
-###The need for National level strategy for Open Principles in Geospatial###
+### The need for National level strategy for Open Principles in Geospatial
 
 **Suchith Anand University of Nottingham**
 
@@ -554,7 +554,7 @@ So it important that we have OSGeo UK chapter take this role to bring together  
 
 <a name="stevenfeldmanps1"></a>
 
-###There is no such thing as a free lunch###
+### There is no such thing as a free lunch
 
 **Steven Feldman KnowWhere Consulting**
 
@@ -574,7 +574,7 @@ This talk will explore the open source business model and the motivations of ind
 
 <a name="tomchadwinps"></a>
 
-###qgis2web###
+### qgis2web
 
 **Tom Chadwin Northumberland National Park**
 
@@ -584,7 +584,7 @@ qgis2web: the code behind webmaps without code'. The story of qgis2web, a QGIS p
 
 <a name="timartinws"></a>
 
-###Turning data into information using Open Source tools###
+### Turning data into information using Open Source tools
 
 **Tim Martin Ordnance Survey / Ed Watts Ordnance Survey**
 
@@ -604,7 +604,7 @@ Step 8: Add C3 charting library to display statistics of the data.
 
 <a name="stevenkayps"></a>
 
-###Using Blender for 3d and animated mapping###
+### Using Blender for 3d and animated mapping
 
 **Steven Kay thinkWhere**
 
@@ -614,7 +614,7 @@ Blender is a free and open source tool for 3d modelling, rendering and animation
 
 <a name="rossmcdonaldps"></a>
 
-###Using OS network datasets with pgRouting###
+### Using OS network datasets with pgRouting
 
 **Ross McDonald Angus Council**
 
@@ -624,7 +624,7 @@ A talk about using OS road network datasets with pgRouting and a comparison of f
 
 <a name="robblackwellps"></a>
 
-###Using Python and Jupyter Notebooks for Geographical Data Munging###
+### Using Python and Jupyter Notebooks for Geographical Data Munging
 
 **Rob Blackwell Cranfield University**
 
@@ -638,7 +638,7 @@ I have to process a lot of unstructured data. I'll talk a bit about the project 
 
 <a name="rossmcdonaldws"></a>
 
-###Using to pgRouting to determine service location and allocate resources###
+### Using to pgRouting to determine service location and allocate resources
 
 Ross McDonald Angus Council
 
@@ -651,7 +651,7 @@ The workshop material will be made available before hand as a virtual machine im
 
 <a name="tomarmitagews"></a>
 
-###Visualising Arts and Humanities Data in QGIS###
+### Visualising Arts and Humanities Data in QGIS
 
 **Tom Armitage EDINA, University of Edinburgh / Ross McDonald Angus Council**
 
@@ -669,7 +669,7 @@ Printed handouts with instructions can be provided, the data used can be downloa
 
 <a name="thomasgratierps"></a>
 
-###What OpenLayers can do for you? Usages and ecosystem###
+### What OpenLayers can do for you? Usages and ecosystem
 
 **Thomas Gratier WebGeoDataVore**
 
@@ -679,7 +679,7 @@ OpenLayers 3 is more and more mature and is a widely adopted solution for web ma
 
 <a name="charleyglynnps"></a>
 
-###What time is it? It's Maptime!###
+### What time is it? It's Maptime!
 
 **Charley Glynn Maptime Southampton & Ordnance Survey**
 
