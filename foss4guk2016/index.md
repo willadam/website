@@ -11,10 +11,10 @@ Our Call for Papers has now closed, thanks to everyone who submitted a proposal.
 
 ### What
 
-* Presentations: user stories, applications, demonstrations, discussions, case studies
-* Workshops: doing and learning
-* Code sprints: developing
-* Un-conference sessions: self-organised
+* [Presentations: user stories, applications, demonstrations, discussions, case studies](talks.html){:target="what"}
+* [Workshops: doing and learning](workshops.html){:target="what"}
+* [Code sprints and Hackathons: developing](codesrints.html){:target="what"}
+* [Unconference and Surgery](unconference.html){:target="what"}
 
 In other words like this ([FOSS4G 2013, Nottingham](http://2013.foss4g.org/)) only perhaps a bit smaller.
 [![FOSS4G 2013](https://farm4.staticflickr.com/3774/9904608205_bca6385c81_b.jpg)](https://www.flickr.com/photos/spacedman/9904213276/in/pool-foss4g/)

@@ -8,6 +8,12 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 FOSS4G UK thanks our generous sponsors.
 
 ---
+<a name="ordnancesurvey"></a>
+[![alt text](images/os_logo.png "Ordnance Survey")](http://www.ordnancesurvey.co.uk/) 
+
+Ordnance Survey is Britain’s mapping agency responsible for maintaining one of the world’s largest and most accurate geospatial databases. From the database, consisting of 500 million features, OS produces a range of intelligent products and services which are used by business, government and consumers. OS also supports Open Data through the release of a number of datasets and licenses allowing developers to freely use location data. In addition OS is focussed on enabling people to use open location data, demonstrated through the Geovation Challenges over the last five years and the opening of the Geovation Hub in 2015.
+
+---
 <a name="astun"></a>
 [![alt text](images/astun_lge.png "Astun")](http://www.astuntechnology.com) 
 
