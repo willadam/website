@@ -3,7 +3,9 @@ layout: foss4guk2016
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : Abstracts
 
-<a name="anushachickermanews1">###A gentle introduction to GeoDjango and Openlayers 3###</a>
+<a name="anushachickermanews1"></a>
+
+###A gentle introduction to GeoDjango and Openlayers 3###
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
 
@@ -246,7 +248,6 @@ A quest to simplify the process of capturing and maintaining geographic data, to
 This presentation will look at the design and implementation of QGIS training, aiming to help course designers maximise learning for trainees within the constraints they are operating within. A number of different models for teaching QGIS (to people both with and without GIS experience) will be reviewed, trying to identify factors which can improve learning outcomes, and some which can hinder them. There will be recommendations for resources, structural approaches, and course curricula. Ant will draw on five years of experience running training on QGIS, covering UK local government, commercial organisations, and humanitarian organisations, from two hour workshops to three day courses.
 
 
-<a name="antscotthack"></a>
 
 ###Humanitarian Hack with HXL###
 
@@ -446,8 +447,6 @@ Although aimed at bathymetry datasets, the tool can scale-out to any application
 The “XYZ Bathymetry Processor” represents an alternative approach using open-source technology to overcome limitations of common “Industry standard” approaches, aimed at increasing processing efficiency and improving overall control and quality of image-rendering.
 The paper describes some of the approaches taken to overcome challenges of innovating with FOSS4G tools in the enterprise-dominated, marine energy sector where there is limited awareness to open source geospatial technology.
 
-<a name="saberrazmjooeihack"></a>
-
 ###QGIS hackathon###
 
 **Saber Razmjooei QGIS Community / Tom Chadwin QGIS Community**
@@ -460,8 +459,6 @@ All the work will be directly related to the QGIS project, but participants can 
 There is no coding skills requirement for the day but prior knowledge with GitHub will help.
 Martin Dobias, one of the QGIS core developers will be present to assist during the code sprint.  Tom Chadwin, a QGIS plugin developer who recently started contributing to the core project will be joining in person or remotely to help with documentation and plugins. Saber Razmjooei, will help with bug hunting and reporting workflow. Other power users and plugin developers from UK QGIS community will be also around to help.
 
-
-<a name="tomchadwinhack"></a>
 
 ###qgis2web code sprint/hackathon###
 
