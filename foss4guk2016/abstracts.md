@@ -3,8 +3,6 @@ layout: foss4guk2016
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : Abstracts
 
-<a name="anushachickermanews1"></a>
-
 ###  A gentle introduction to GeoDjango and Openlayers 3
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
@@ -81,8 +79,6 @@ In partnership with the IT provider SCISYS, UKPN commissioned the implementation
 The use of Open Source products and decoupling has also further reduced vendor lock-in, enabling a more flexible approach to product upgrade as requirements and technologies evolved. This is for instance the use of an Open Source spatial stack integrated with Drupal CMS. 
  
 UKPN is now enabled with a scalable and interoperable spatial platform; allowing sharing of data across different business entities within the group. Cost benefit analysis demonstrated that UKPN has achieved the desired scalability and extensibility for a low initial investment. SCISYS ‘agile delivery approach and continuous stakeholder engagement further improved on the returns delivered.
- 
-<a name="jocook"></a>
 
 ### Don't be afraid to commit
 
@@ -152,8 +148,6 @@ Road gradient markers are incredibly useful. They tell us where the "steepness" 
 Demonstrating how 2.5D, 3D & 4D are used in Urban Planning and how it is achieved using open source. 
 This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time Manager. 
 
-<a name="nicholasdugganws"></a>
-
 ### From 2.5D to 4D, Into further Dimensions 
 
 **Nicholas Duggan Garsdale Design Ltd / Elliot Hartley Garsdale Design Ltd**
@@ -171,8 +165,6 @@ This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time M
 
 This presentation will introduce the Geo4All initiative and show how universities, government organisations, SMEs , NGOs in the UK can be part of this excellent OSGeo initiative with the mission for making geospatial education and opportunities accessible to all.
 
-<a name="sebastianovide"></a>
-
 ### GeoFire — Realtime location queries with Firebase
 
 **Sebastian Ovide Ordnance Survey (Geovation)**
@@ -180,9 +172,6 @@ This presentation will introduce the Geo4All initiative and show how universitie
 **Workshop (2 hours) / Target Audience: Developers with appreciation of JS.**
 
 We'll write a serverless web app using Firebase as backend and GeoFire to store and retrieve data within a given geographic area. Even if it could be done using PostGIS, using Firebase will allow us to write an app that can scale painlessly without any devop work involved.
-
-
-<a name="thomasgratierws"></a>
 
 ### Getting started with Openlayers
 
@@ -230,8 +219,6 @@ This presentation will look at the design and implementation of QGIS training, a
 
 HXL (Humanitarian Exchange Language) has been released this year - a new standard, 'designed to improve information sharing during a humanitarian crisis without adding extra reporting burdens'. It uses a controlled but extensible set of hashtags, added as the first column of a spreadsheet, to classify data. MapAction and British Red Cross (tbc) are proposing a hack to develop ways of  using this to support data discovery and usage for spatial data, including, for example, integrating with QGIS, and making use of CKAN. This proposal is still under development, and a fuller brief will be put together over the next few weeks. 
 
-<a name="robertward"></a>
-
 ### Improving Open Source GIS Workflow with a SLD Editor
 
 **Robert Ward SciSys**
@@ -252,8 +239,6 @@ It has become apparent whilst developing the application that several OSGeo proj
 
 The talk will conclude with an outline of the future roadmap for the application and discuss approaches to making the SLD Editor open source.
 
-<a name="ianturtonws1"></a>
-
 ### Introduction to GeoServer
 
 **Ian Turton Astun Technology**
@@ -261,9 +246,6 @@ The talk will conclude with an outline of the future roadmap for the application
 **Workshop (2 hours) / Target Audience: Novices**
 
 This workshop will cover how to install a local copy of GeoServer and take you through the steps required to produce your first web map. We will take a selection of Ordnance Survey OpenData (tm) and the provided SLD styles and produce a pretty map that you can use as a base map at home.
-
-
-<a name="aileenhealws"></a>
 
 ### Loading OS MasterMap, OS OpenData and other OS GML datasets using Loader
 
@@ -284,8 +266,6 @@ Availability of good quality and up-to-date spatial data for Scotland is essenti
 Local authorities in Scotland, as elsewhere, are struggling to meet expectations on service delivery and a time of severe funding constraints. At the same time initiatives like the EU INSPIRE Directive are increasing pressure on already overstretched information managers. The Improvement Service is developing a Spatial Hub on behalf of Scottish local government. A unique collective approach will provide national (Scottish) datasets of local government spatial data, which will be consistent, optimised and standardised across the country.  This will meet Scottish local government’s obligations under the EU INSPIRE Directive, allow a consistent approach to open data and deliver significant benefits to both the public and private sector. We work closely together with the 32 Local Authorities, the two National Parks and our key partners, such as the Scottish Government and Ordnance Survey.
 In June this year we are launching the Spatial Hub which is entirely built on open source software, including CKAN, Wordpress, Geoserver, PostGIS and Python. An important role is played by the spatial data custodians, often GIS-officers for the Local Authorities and National Parks. For them, the Spatial Hub provides an online portal to upload their most up-to-date spatial datasets, and to find and receive technical support and feedback on data improvement. In addition the Spatial Hub is open to developers who are looking for spatial data to integrate in their mobile or desktop application. And finally, the Spatial Hub allows any online member of the public to inspect and view spatial data, either in simple online web-maps or their GIS software, such as ArcGIS or QGIS. 
 The use of existing open-source components enabled us to develop the Spatial Hub with very limited additional code. The functionality has been defined by spatial data users, rather than IT specialists. We aim to monitor take-up very closely and will continue to improve and adapt the functionality of the Spatial Hub to the needs of the users. The presentation will consist of a short introduction on the development project and methodology, a live demonstration of the Spatial Hub, and an in-depth discussion of the technical configuration of the open-source components.
-
-<a name="barryrowlingsonws"></a>
 
 ### Making Maps in R
 
@@ -418,9 +398,6 @@ Martin Dobias, one of the QGIS core developers will be present to assist during 
 
 Help make qgis2web even better - improve the codebase, squash bugs, and add features
 
-
-<a name="tomchadwinws"></a>
-
 ### qgis2web: webmaps without code
 
 **Tom Chadwin Northumberland National Park**
@@ -445,9 +422,6 @@ Three technologies are discussed:
 
 roadNET is a QGIS plugin for managing street gazeteer data.  In addition to the roads' geometries, it holds information on their names, ownership and maintenance.  roadNet simplifies data entry by automatically updating the database features are digitised, including modifying their geometries where they overlap other features.
 
-
-<a name="anushachickermanews2"></a>
-
 ### SaaSy maps - Using django-tenants and geodjango to provide webGIS Software-as-a-Service(SaaS)
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
@@ -465,8 +439,6 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 
 Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a surveying company where I design and develop GIS mapping solutions using Python, Django, PostgreSQL, PostGIS and AngularJS as Scrummaster of a team of 3. I have 4 years of experience working on successful projects using Java, Javascript and Python. I have a MSc. in Cybersecurity and a MSc. in Computer Science, and a professional membership with the British Computing Society.
 
-<a name="thomasstarnes"></a>
-
 ### Species distribution modelling using open data
 
 **Thomas Starnes Amphibian and Reptile Conservation**
@@ -474,8 +446,6 @@ Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a survey
 **Presentation**
 
 Advances in species distribution modelling are providing valuable insight into the distribution and habitat requirements of rare and widespread species. Models are data hungry, but open data supplied through the National Biodiversity Network and Open Government Licence remote sensed data are opening up a world of new possibilities.
-
-<a name="jamesmilnerps2"></a>
 
 ### The Hard Thing About Hard Geo Things
 
@@ -487,9 +457,6 @@ As spatial data sets have become larger, aggregated faster and from a wider vari
 Attendees will learn about what causes geospatial operations to be intrinsically complex. We will lay the foundations of algorithmic complexity in plain English and and then go on to show how this manifests itself across various GIS operations.
 
 As I'm sure many attendees will have experienced, many GIS operations can take comparatively long time to complete, especially with traditional desktop GIS techniques. The talk will look to examine how in the modern world of machine data and high volume social media we can tackle increasingly large datasets through techniques such as improved algorithms, spatial indexing and process parallelization. We will also examine how some of these techniques have been implemented in open source geospatial projects. 
-
-
-<a name="suchithanandws"></a>
 
 ### The need for National level strategy for Open Principles in Geospatial
 
@@ -527,8 +494,6 @@ This talk will explore the open source business model and the motivations of ind
 
 qgis2web: the code behind webmaps without code'. The story of qgis2web, a QGIS plugin which turns your projects into Leaflet or OpenLayers 3 webmaps, this has been my first encounter with Python, the QGIS API, Leaflet, OpenLayers 3, GDAL, Qt, Github, and Travis. If I can do it, anyone can...
 
-<a name="timartinws"></a>
-
 ### Turning data into information using Open Source tools
 
 **Tim Martin Ordnance Survey / Ed Watts Ordnance Survey**
@@ -546,8 +511,6 @@ Step 5: Using a variety of Leaflet plugins to improve performance and usability 
 Step 6: Add a gazetteer search using Twitter's Typeahead search library
 Step 7: Include geoprocessing functions from the TurfJS library to allow users to find their nearest surgery.
 Step 8: Add C3 charting library to display statistics of the data.
-
-<a name="stevenkayps"></a>
 
 ### Using Blender for 3d and animated mapping
 
@@ -577,8 +540,6 @@ My MSc thesis project is all about using UK Hydrographic Office data and earth o
 
 I have to process a lot of unstructured data. I'll talk a bit about the project and use it as a vehicle for demonstrating Vagrant, Python, Jupyter and various open source, data science and GIS libraries.
 
-<a name="rossmcdonaldws"></a>
-
 ### Using to pgRouting to determine service location and allocate resources
 
 Ross McDonald Angus Council
@@ -589,8 +550,6 @@ Ross McDonald Angus Council
 
 An introductory workshop to using pgRouting, the routing extension to PostgreSQL. The participants with be lead through the basics of installing PostGIS and pgRouting in a PostgreSQL database and optimising the PostgreSQL database for spatial data.  They will load Ordnance Survey road network data (either OS Open Roads or the yet-to-be-released OS Highways layer) and build a network topology using pgRouting tools.  An introduction to the basics of routing across the network will follow using both the QGIS pgRouting Layer plugin and SQL in PgAdmin.  We will then use some real world service or facility locations together with pgRouting functions (shortest path, driving distance and alphashapes) to determine optimal location of new services.
 The workshop material will be made available before hand as a virtual machine image (or run off the OSGeo LIVE image?) so that everyone has the same user experience with minimised configuration required.  Network and service location data will be provided.  Notes will be published in a follow along / copy and paste format and will be available online, installed locally and as hard copy.
-
-<a name="tomarmitagews"></a>
 
 ### Visualising Arts and Humanities Data in QGIS
 
@@ -607,8 +566,6 @@ The workshop will take the participants through the process of creating point da
 The final outputs will be a 3D model and viewer as a webpage created in QGIS2ThreeJS and an animated heat map as an mp4 movie made using TimeManager. 
 
 Printed handouts with instructions can be provided, the data used can be downloaded from ShareGeo ahead of the workshop.
-
-<a name="thomasgratierps"></a>
 
 ### What OpenLayers can do for you? Usages and ecosystem
 
