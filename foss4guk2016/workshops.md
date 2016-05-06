@@ -3,9 +3,10 @@ layout: foss4guk2016
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : Workshops
 
+**Note that this information is subject to change without warning**
+
 |Title| Main Presenter |
 |-----|-------------|
-|[From 2.5D to 4D Exploring other dimensions](abstracts.html#from-25d-to-4d-exploring-other-dimensions)| Nicholas Duggan|
 |[Making Maps in R](abstracts.html#making-maps-in-r)| Barry Rowlingson|
 |[Introduction to GeoServer](abstracts.html#introduction-to-geoserver)| Ian Turton|
 |[Turning data into information using Open Source tools](abstracts.html#turning-data-into-information-using-open-source-tools)| Tim Martin|

@@ -3,6 +3,8 @@ layout: foss4guk2016
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : Presentations
 
+**Note that this information is subject to change without warning**
+
 |Title| Main Presenter |
 |-----|-------------|
 |[From 2.5D to 4D Exploring other dimensions](abstracts.html#from-25d-to-4d-exploring-other-dimensions)| Nicholas Duggan|
@@ -38,6 +40,8 @@ layout: foss4guk2016
 |[GOST - Go implementation of OGC SensorThings API](abstracts.html#gost---go-implementation-of-ogc-sensorthings-api)| Bert Temme|
 |[A GI Node for the Environment](abstracts.html#a-gi-node-for-the-environment)| Matt Debont|
 |[What OpenLayers can do for you? Usages and ecosystem](abstracts.html#what-openlayers-can-do-for-you-usages-and-ecosystem)| Thomas Gratier|
+|[Can Open and Closed Play Nicely Together?](abstracts.html#can-open-and-closed-play-nicely-together)| Gary Gale|
+|[Open Source Geo at Defra - a shopping list](abstracts.html#open-source-geo-at-defra---a-shopping-list)| Steve Wilkinson|
 
 
 

@@ -146,16 +146,7 @@ Road gradient markers are incredibly useful. They tell us where the "steepness" 
 **Presentation**
 
 Demonstrating how 2.5D, 3D & 4D are used in Urban Planning and how it is achieved using open source. 
-This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time Manager. 
-
-### From 2.5D to 4D, Into further Dimensions 
-
-**Nicholas Duggan Garsdale Design Ltd / Elliot Hartley Garsdale Design Ltd**
-
-**Workshop (half day) / Target Audience: Beginner/Intermediate and those wanting to use 3D on the web**
-
-Demonstrating how 2.5D, 3D & 4D are used in Urban Planning and how it is achieved using open source. 
-This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time Manager. 
+This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time Manager.  
 
 ### Geo4All - Empowering Communities for a better world 
 
@@ -590,5 +581,26 @@ I would also like to highlight the benefits of not only attending a Maptime but 
 There is a focus on the beginner and there is no jargon or selling at Maptime. Some people are experts and some people are just getting started, but all of us are learning, so why not do it together?
 
 For more information see: http://maptime.io/about/
+
+### Can Open and Closed Play Nicely Together?
+
+**Gary Gale what3words**
+
+**Presentation**
+
+In an ideal world bandwidth will be infinite, every espresso will be a good espresso and we won’t have to worry about getting open and closed to work together. I have first hand experience that the first two wishes are not true and I’m working on how to get the third wish to happen.
+
+This talk will cover what I’ve learned in far too many years about trying to get open and closed to play nicely together, be that open data or open source; about how far we’ve come as an industry, what the pitfalls are and I’ll also try and steer away from any controversial views on open licensing.
+
+### Open Source Geo at Defra - a shopping list
+
+**Steve Wilkinson JNCC / Steven Feldman Astun Technology**
+
+**Presentation**
+
+In 2015 Defra commissioned a Geographic Information technology strategy and design to support the evolving use of geography across a network of over 20 operating bodies, increased need for data sharing within Defra and public access to OpenData at a time of intense pressure on budgets and resources. Subsequently, a team at the Joint Nature Conservancy Council built a series of prototypes to validate the design proposals.
+
+This talk will summarise the strategy and high level design proposed and will share the experiences of JNCC in building prototypes based on open source geo technologies. In particular we will focus on some of the ‘things we need’ to fill the gaps in the technology/application stack - these gaps could be an opportunity for open source developers in the UK.
+
 
 

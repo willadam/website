@@ -3,6 +3,8 @@ layout: foss4guk2016
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : CodeSprints and Hackathon
 
+**Note that this information is subject to change without warning**
+
 |Title| Main Organiser |
 |-----|-------------|
 |[qgis2web code sprint/hackathon](abstracts.html#qgis2web-code-sprinthackathon)| Tom Chadwin |

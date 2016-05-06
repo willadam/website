@@ -78,4 +78,11 @@ They offer a full range of services from high quality visualisation, project bas
 
 [Geoger Ltd](https://geoger.co.uk/) is a spatial and environmental data consultancy, specialising in remote sensing, image processing, and environmental and spatial data analysis. We primarily use open-source software and advocate the inclusion of open data, with the aim of increasing commercial and general awareness of remote sensing and open-source.
 
+---
+
+<a name="nautoguide"></a>
+[![alt text](images/nautoguide-logo-sm.png "NautoGuide")](https://www.nautoguide.com/)
+
+[Nautoguide Ltd.](http://www.nautoguide.com/) provide digital mapping services across a wide range of industry sectors. Our cloud based systems enable our customers to develop rich applications that mix digital mapping with geospatial data and customised workflow. We deliver solutions into the social housing, local authority, leisure and finance industry sectors. 
+
 
