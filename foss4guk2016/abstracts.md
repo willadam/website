@@ -486,13 +486,13 @@ Have you ever wondered?
 
 This talk will explore the open source business model and the motivations of individuals, organisations and businesses that contribute to open source projects. It will hopefully prompt a discussion on what might be reasonably expected of users of open source software.
 
-### qgis2web
+### qgis2web: the code behind webmaps without code
 
 **Tom Chadwin Northumberland National Park**
 
 **Presentation**
 
-qgis2web: the code behind webmaps without code'. The story of qgis2web, a QGIS plugin which turns your projects into Leaflet or OpenLayers 3 webmaps, this has been my first encounter with Python, the QGIS API, Leaflet, OpenLayers 3, GDAL, Qt, Github, and Travis. If I can do it, anyone can...
+The story of qgis2web, a QGIS plugin which turns your projects into Leaflet or OpenLayers 3 webmaps, this has been my first encounter with Python, the QGIS API, Leaflet, OpenLayers 3, GDAL, Qt, Github, and Travis. If I can do it, anyone can...
 
 ### Turning data into information using Open Source tools
 
