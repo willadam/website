@@ -13,7 +13,7 @@ Our Call for Papers has now closed, thanks to everyone who submitted a proposal.
 
 * [Presentations: user stories, applications, demonstrations, discussions, case studies](talks.html){:target="what"}
 * [Workshops: doing and learning](workshops.html){:target="what"}
-* [Code sprints and Hackathons: developing](codesrints.html){:target="what"}
+* [Code sprints and Hackathons: developing](codesprints.html){:target="what"}
 * [Unconference and Surgery](unconference.html){:target="what"}
 
 In other words like this ([FOSS4G 2013, Nottingham](http://2013.foss4g.org/)) only perhaps a bit smaller.
