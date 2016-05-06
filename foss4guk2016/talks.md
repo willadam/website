@@ -25,7 +25,7 @@ layout: foss4guk2016
 |[How to draw a polygon](abstracts.html#how-to-draw-a-polygon)| Charles Kennelly|
 |[Making the most of Leaflet with Plugins](abstracts.html#making-the-most-of-leaflet-with-plugins)| James Milner|
 |[Migrating to Open Source GIS - Case study](abstracts.html#migrating-to-open-source-gis---case-study)| Saber Razmjooei|
-|[qgis2web](abstracts.html#qgis2web)| Tom Chadwin|
+|[qgis2web: the code behind webmaps without code](abstracts.html#qgis2web)| Tom Chadwin|
 |[Bulk processing, data sharing and visualization of Sentinel-derived products](abstracts.html#bulk-processing-data-sharing-and-visualization-of-sentinel-derived-products)| Giulio Pagan|
 |[Delivering low cost spatial infrastructure in the cloud](abstracts.html#delivering-low-cost-spatial-infrastructure-in-the-cloud)| Meghana Garg|
 |[Using Python and Jupyter Notebooks for Geographical Data Munging](abstracts.html#using-python-and-jupyter-notebooks-for-geographical-data-munging)| Rob Blackwell|
