@@ -23,7 +23,7 @@ Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a survey
 
 **Presentation**
 
-The volume of spatial data being produced has grown exponentially within recent years, with the European Sentinel satellite program alone expected to produce 8TB of data per day once it is fully operational. However, knowing how to access, process and analyze this data can be more of a challenge. The Joint Nature Conservation Committee (JNCC) is working to develop automated processing chains to extract ecologically relevant data products from multiple sources, including Sentinel 2 and Landsat 8 as well as services to deliver these as multi-annual time series via a node providing storage, processing and visualisation.
+The volume of spatial data being produced has grown exponentially within recent years, with the European Sentinel satellite program alone expected to produce 8TB of data per day once it is fully operational. However, knowing how to access, process and analyse this data can be more of a challenge. The Joint Nature Conservation Committee (JNCC) is working to develop automated processing chains to extract ecologically relevant data products from multiple sources, including Sentinel 2 and Landsat 8 as well as services to deliver these as multi-annual time series via a node providing storage, processing and visualisation.
   
 This node will provide a single point for government agencies and the general public to access this data and consists of a number of open-source technologies. This includes PostgreSQL/PostGIS to store our spatial data and Geoserver to provide visualisation along with a number of applications to deliver API’s to access the data in a convenient manner.  
 
@@ -43,8 +43,8 @@ The automatic classification of roof shape from remotely sensed data has a numbe
 
 **Presentation**
 
-BRINs (Block Range INdexes) are one of the major new features introduced with PostgreSQL 9.5. They allow to directly select just blocks of table pages needed for queries execution, resulting on smaller indexes that can be easily contained in memory and that require less maintenance than the existing ones.
-These features make BRIN particularly suitable for very large tables, and more in general for query with a low-selectivity that would be executed preferring a sequential scan of all tables blocks instead of using indexes.
+BRINs (Block Range INdexes) are one of the major new features introduced with PostgreSQL 9.5. They allow you to directly select just blocks of table pages needed for queries execution, resulting on smaller indexes that can be easily contained in memory and that require less maintenance than the existing ones.
+These features make BRIN particularly suitable for very large tables, and more in general for query with a low-selectivity that would be executed preferring a sequential scan of all tables' blocks instead of using indexes.
 In this talk I will present how BRIN indexes can be used on geographical database based on PostgreSQL and its spatial extensions, showing how they can perform with a large amount of data such as LiDAR surveys.
 
 ### Bulk processing, data sharing and visualization of Sentinel-derived products
@@ -97,7 +97,7 @@ This workshop will aim to help beginners with the technologies and workflows the
 More organisations are moving to use FOSS4G software to cover shrinking
 budgets. It is very appealing to an organization’s leaders to ditch their current
 proprietary software solution with the attendant saving on per user licences
-and ongoing maintenance costs. Obviously, if you switched to FOSS4G to get
+and on-going maintenance costs. Obviously, if you switched to FOSS4G to get
 better features and scalability you should consider buying a support contract
 from one of the many vendors that offer them, these companies support many
 of the core developers directly. This way you get all the advantages of open
@@ -131,7 +131,7 @@ This talk will attempt to show how to be a better open source citizen and get a
 better answer than RTFM or STFW when your project is stuck and the demo is
 the next day. 
 
-### Finding Road Gradients With Opensource Data and Tools
+### Finding Road Gradients With Open Source Data and Tools
 
 **Dave Barter Nautoguide Ltd.**
 
@@ -171,7 +171,7 @@ This presentation will introduce the Geo4All initiative and show how universitie
 
 **Workshop (2 hours) / Target Audience: Developers with appreciation of JS.**
 
-We'll write a serverless web app using Firebase as backend and GeoFire to store and retrieve data within a given geographic area. Even if it could be done using PostGIS, using Firebase will allow us to write an app that can scale painlessly without any devop work involved.
+We'll write a serverless web app using Firebase as backend and GeoFire to store and retrieve data within a given geographic area. Even if it could be done using PostGIS, using Firebase will allow us to write an app that can scale painlessly without any development work involved.
 
 ### Getting started with Openlayers
 
@@ -180,7 +180,7 @@ We'll write a serverless web app using Firebase as backend and GeoFire to store 
 **Workshop (half day) / Target Audience: Beginners looking for introduction to OpenLayers. They should be able to use a text editor, a browser and knowing basic use of command line.**
 
 This workshop will introduce by the example how to begin with OpenLayers 3. It will go through how to create you first map, use various available layers, manage interactions on the map and use vector data with the styles.
-Along, you will learn where and how to use Openlayers ressources when you need to go further.
+Along, you will learn where and how to use Openlayers resources when you need to go further.
 
 ### GOST - Go implementation of OGC SensorThings API
 
@@ -208,7 +208,7 @@ A quest to simplify the process of capturing and maintaining geographic data, to
 
 **Presentation**
 
-This presentation will look at the design and implementation of QGIS training, aiming to help course designers maximise learning for trainees within the constraints they are operating within. A number of different models for teaching QGIS (to people both with and without GIS experience) will be reviewed, trying to identify factors which can improve learning outcomes, and some which can hinder them. There will be recommendations for resources, structural approaches, and course curricula. Ant will draw on five years of experience running training on QGIS, covering UK local government, commercial organisations, and humanitarian organisations, from two hour workshops to three day courses.
+This presentation will look at the design and implementation of QGIS training, aiming to help course designers maximise learning for trainees within the constraints they are operating within. A number of different models for teaching QGIS (to people both with and without GIS experience) will be reviewed, trying to identify factors which can improve learning outcomes and some which can hinder them. There will be recommendations for resources, structural approaches, and course curricula. Ant will draw on five years of experience running training on QGIS, covering UK local government, commercial organisations, and humanitarian organisations, from two hour workshops to three day courses.
 
 
 ###  Humanitarian Hack with HXL
@@ -253,7 +253,7 @@ This workshop will cover how to install a local copy of GeoServer and take you t
 
 **Workshop (half day) / Target Audience: people interested in loading OS datasets into PostgreSQL.**
 
-A workshop going through how to use loader to load OS MasterMap, OS OpenData and other OS GML datasets datasets into  PostgreSQL/PostGIS. 
+A workshop going through how to use loader to load OS MasterMap, OS OpenData and other OS GML datasets into PostgreSQL/PostGIS. 
 The workshop will use the portable GIS. 
 
 ### Local Government working towards Scotland-wide spatial data
@@ -304,7 +304,7 @@ pretty effects that can enhance your web mapping.
 
 **Presentation**
 
-Leaflet aim's to be light weight. As such sometimes it misses out on functionality we see in other mapping frameworks. This talk looks to see how we can get the most out of Leaflet through the power that it's open source plugins provide. Examining specific, common operations such as Geocoders, Geoprocessing and Drawing we will take a look at examples for each and how to make the most out of the functionality available. It will also take a look at the limitations and implications of using such frameworks.
+Leaflet aim's to be light weight. As such sometimes it misses out on functionality we see in other mapping frameworks. This talk looks to see how we can get the most out of Leaflet through the power that its open source plugins provide. Examining specific, common operations such as Geocoders, Geoprocessing and Drawing we will take a look at examples for each and how to make the most out of the functionality available. It will also take a look at the limitations and implications of using such frameworks.
 
 ### Managing National Load MasterMap and Maintaining History
 
@@ -313,7 +313,7 @@ Leaflet aim's to be light weight. As such sometimes it misses out on functionali
 **Presentation**
 
 Talk discussion how to load MasterMap CoU data and techniques for maintaining history.
-Discusses how Astun Technology maintains it's National Load of OS MasterMap using CoU data for its Astun Data Services.
+Discusses how Astun Technology maintains its National Load of OS MasterMap using CoU data for its Astun Data Services.
 Also describes potential methods for maintaining change history,
 
 ### Mapping the of Heritage of Dartmoor National Park
@@ -363,7 +363,7 @@ And what does this all have to do with the price of butter?!
 
 **Presentation**
 
-A look at the Open-Source tools and software used by Windor and Maidenhead Borough Council in delivering GIS and data integration.
+A look at the Open-Source tools and software used by Windsor and Maidenhead Borough Council in delivering GIS and data integration.
 
 ### Processing marine DTM’s - like a boss!
 
@@ -372,12 +372,12 @@ A look at the Open-Source tools and software used by Windor and Maidenhead Borou
 **Presentation**
 
 LR Senergy presents a case study of combining FOSS4G tools to create an end-to-end workflow for processing “as-supplied” XYZ datasets that represent marine digital terrain models (DTM) that have been acquired from marine surveys.
-This paper describes LR Senergy “XYZ Bathymetry Processor”, that combines geospatial Python libraries with command line tools such as GDAL/OGR and GMT (Generic Mapping Tools), amongst others. The workflow outputs a suite of derived datasets such as contours, seabed gradient, gradient-hazard zones and a composite colour-relief hill-shaded GeoTIFF, all ready for further analysis by geophysicists and geotechnical engineers.
-Although aimed at bathymetry datasets, the tool can scale-out to any application where 3-column gridded XYZ file types are used, e.g. for Lidar or onshore topographic DTM.
+This paper describes LR Senergy “XYZ Bathymetry Processor”, which combines geospatial Python libraries with command line tools such as GDAL/OGR and GMT (Generic Mapping Tools), amongst others. The workflow outputs a suite of derived datasets such as contours, seabed gradient, gradient-hazard zones and a composite colour-relief hill-shaded GeoTIFF, all ready for further analysis by geophysicists and geotechnical engineers.
+Although aimed at bathymetry datasets, the tool can scale-out to any application where 3-column gridded XYZ file types are used, e.g. for LiDAR or onshore topographic DTM.
 The “XYZ Bathymetry Processor” represents an alternative approach using open-source technology to overcome limitations of common “Industry standard” approaches, aimed at increasing processing efficiency and improving overall control and quality of image-rendering.
 The paper describes some of the approaches taken to overcome challenges of innovating with FOSS4G tools in the enterprise-dominated, marine energy sector where there is limited awareness to open source geospatial technology.
 
-### QGIS hackathon
+### QGIS Hackathon
 
 **Saber Razmjooei QGIS Community / Tom Chadwin QGIS Community**
 
@@ -420,9 +420,9 @@ Three technologies are discussed:
   2) An EditHandler class connects the signals emitted by vector layers during editing, e.g. featureAdded, to functions that check and update various database tables.
   3) A continuous integration pipeline using GitHub, Shippable, Docker and Amazon Web Services automatically packages roadNet into a repository in the cloud to allow easy testing of features as they are developed.
 
-roadNET is a QGIS plugin for managing street gazeteer data.  In addition to the roads' geometries, it holds information on their names, ownership and maintenance.  roadNet simplifies data entry by automatically updating the database features are digitised, including modifying their geometries where they overlap other features.
+roadNET is a QGIS plugin for managing street gazetteer data.  In addition to the roads' geometries, it holds information on their names, ownership and maintenance.  roadNet simplifies data entry by automatically updating the database features are digitised, including modifying their geometries where they overlap other features.
 
-### SaaSy maps - Using django-tenants and geodjango to provide webGIS Software-as-a-Service(SaaS)
+### SaaSy maps - Using django-tenants and geodjango to provide webGIS Software-as-a-Service (SaaS)
 
 **Anusha Chickermane Atlantic Geomatics Ltd.**
 
@@ -431,7 +431,7 @@ roadNET is a QGIS plugin for managing street gazeteer data.  In addition to the 
 
 Aim: The aim of this workshop is to demonstrate how to create a semi-isolated multi-tenant architecture using django-tenants+postgresql, and then build on top of it using geodjango+postgis+openlayers to provide individualised web mapping services to different clients. It will also take a brief look at the performance and security implications of this approach.
 
-Requirements: Windows/Linux/Mac laptop with administrative permissions, internet connection, Postgres 9.4, PostGIS 2.2, Python 3.5, Django 1.8 and GeoDjango prequisites (https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/). 
+Requirements: Windows/Linux/Mac laptop with administrative permissions, internet connection, Postgres 9.4, PostGIS 2.2, Python 3.5, Django 1.8 and GeoDjango prerequisites (https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/). 
 
 Description: In this workshop, participants will build a multi-tenant web application displaying road accident data for different counties, with a different url and dataset for each county.  The workshop will start with a brief presentation on django, django-tenants and geodjango, and the pros/cons of this approach. We will then proceed to the coding section of the workshop where all participants will code a multi-tenant django website, load it with OS and road-accident data-sets, and view the different county websites. 
 
@@ -454,7 +454,7 @@ Advances in species distribution modelling are providing valuable insight into t
 **Presentation**
 
 As spatial data sets have become larger, aggregated faster and from a wider variety of sources, processing large spatial datasets has become a challenge. 
-Attendees will learn about what causes geospatial operations to be intrinsically complex. We will lay the foundations of algorithmic complexity in plain English and and then go on to show how this manifests itself across various GIS operations.
+Attendees will learn about what causes geospatial operations to be intrinsically complex. We will lay the foundations of algorithmic complexity in plain English and then go on to show how this manifests itself across various GIS operations.
 
 As I'm sure many attendees will have experienced, many GIS operations can take comparatively long time to complete, especially with traditional desktop GIS techniques. The talk will look to examine how in the modern world of machine data and high volume social media we can tackle increasingly large datasets through techniques such as improved algorithms, spatial indexing and process parallelization. We will also examine how some of these techniques have been implemented in open source geospatial projects. 
 
@@ -466,7 +466,7 @@ As I'm sure many attendees will have experienced, many GIS operations can take c
 
 Open principles are now implemented by the UK Government and delivering huge cost savings for government. Open source GIS software will help the local authorities and various government departments in reducing huge licence fee costs for proprietary software and the UK Government and taxpayers as a whole will benefit from cost efficiencies, reduce the cost of lock-in to suppliers and products. This is especially important for future IT investments (for example Cloud Computing) , so that more options are explored and choices available.
 
-So it important that we have OSGeo UK chapter take this role to bring together  nationally. This half day session is aimed at bringing together OSGeo UK Chapter and representatives from  central government, local authorities, academics, industry, SMEs , NGOs etc in the UK and put forward and support National level strategy for Open Principles in Geospatial in the UK.
+So it important that we have OSGeo UK chapter take this role to bring together  nationally. This half day session is aimed at bringing together OSGeo UK Chapter and representatives from  central government, local authorities, academics, industry, SMEs, NGOs etc in the UK and put forward and support National level strategy for Open Principles in Geospatial in the UK.
 
 ### There is no such thing as a free lunch
 
@@ -498,7 +498,7 @@ The story of qgis2web, a QGIS plugin which turns your projects into Leaflet or O
 
 **Tim Martin Ordnance Survey / Ed Watts Ordnance Survey**
 
-**Workshop (half day) / Target Audience: Beginners/Intermediate some knowlege of HTML/Javascript would be useful**
+**Workshop (half day) / Target Audience: Beginners/Intermediate some knowledge of HTML/Javascript would be useful**
 
 This workshop will walk through how to turn data about GP surgeries from Health and Social Care Information Centre (HSCIC) into information. 
 Attendees will use a range of desktop and web open source technologies to create a "Find My Nearest GP Surgery". 
@@ -565,7 +565,7 @@ The workshop will take the participants through the process of creating point da
 
 The final outputs will be a 3D model and viewer as a webpage created in QGIS2ThreeJS and an animated heat map as an mp4 movie made using TimeManager. 
 
-Printed handouts with instructions can be provided, the data used can be downloaded from ShareGeo ahead of the workshop.
+Printed handouts with instructions can be provided; the data used can be downloaded from ShareGeo ahead of the workshop.
 
 ### What OpenLayers can do for you? Usages and ecosystem
 
@@ -587,7 +587,7 @@ This presentation will explain more about Maptime with a focus on what we do her
 
 I would also like to highlight the benefits of not only attending a Maptime but also organising a local chapter and how it supports the FOSS community. We now have lots of great open software and lovely free data but often the missing piece is the knowledge and/or finding the time. Maptime sessions provide both and are a fantastic way to learn/teach/socialise/map!
 
-There is a focus on the beginner and there is no jargon or selling at Maptime. Some people are experts, and some people are just getting started, but all of us are learning, so why not do it together?
+There is a focus on the beginner and there is no jargon or selling at Maptime. Some people are experts and some people are just getting started, but all of us are learning, so why not do it together?
 
 For more information see: http://maptime.io/about/
 
