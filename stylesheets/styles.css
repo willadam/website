@@ -56,6 +56,10 @@ a:hover small {
   margin:0 auto;
 }
 
+.foot {
+ clear:both
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -104,7 +108,6 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -186,8 +189,6 @@ hr {
 
 footer {
   width:270px;
-  float:left;
-  position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -197,6 +198,7 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
+    overflow: auto;
   }
 
   header, section, footer {
@@ -206,7 +208,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+   /*  padding-right:320px; */
   }
 
   section {
