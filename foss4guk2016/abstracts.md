@@ -326,8 +326,8 @@ Dartmoor is one of the most important sites for Bronze Age archaeology in Wester
 The Heritage Trails Application has been funded by the HLF as part of the Moor than meets the eye project to help the public discover and better understand the abundance of archaeology and wildlife that Dartmoor has to offer through this web map application:
 http://maps.moorthanmeetstheeye.org/heritagetrails/
 As well as the usual ability to add layers this application also lets users plot their own trails, add photos of features or wildlife and easily share this information with others. 
-It is built on an open source stack of PostGIS, Geoserver and Open Layers 3 (OL3). The intention is for the internal processing of new trails, photos, etc to be managed within in QGIS. This is possible due to QGIS’s ability to link well with other software. 
-The presentation will detail the purpose of the application, technology behind the it and a live presentation of what it can do. 
+It is built on an open source stack of PostGIS, Geoserver and Open Layers 3. The intention is for the internal processing of new trails, photos, etc to be managed within in QGIS. This is possible due to QGIS’s ability to link well with other software. 
+The presentation will detail the purpose of the application, the technology behind it and a live presentation of what it can do. 
 
 ### Migrating to Open Source GIS - Case study
 
