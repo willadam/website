@@ -598,7 +598,7 @@ This talk will cover what I’ve learned in far too many years about trying to g
 
 **Presentation**
 
-In 2015 Defra commissioned a Geographic Information technology strategy and design to support the evolving use of geography across a network of over 20 operating bodies, increased need for data sharing within Defra and public access to OpenData at a time of intense pressure on budgets and resources. Subsequently, a team at the Joint Nature Conservancy Council built a series of prototypes to validate the design proposals.
+In 2015 Defra commissioned a Geographic Information technology strategy and design to support the evolving use of geography across a network of over 20 operating bodies, increased need for data sharing within Defra and public access to OpenData at a time of intense pressure on budgets and resources. Subsequently, a team at the Joint Nature Conservation Committee built a series of prototypes to validate the design proposals.
 
 This talk will summarise the strategy and high level design proposed and will share the experiences of JNCC in building prototypes based on open source geo technologies. In particular we will focus on some of the ‘things we need’ to fill the gaps in the technology/application stack - these gaps could be an opportunity for open source developers in the UK.
 
