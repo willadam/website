@@ -49,9 +49,11 @@ For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/
 
 Reduced price tickets are now available, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
 
-### Accommodation
+### Accommodation and Party
 
-Accommodation will be self-booked - we will be posting details soon.
+Accommodation is self-booked, see [the accommodation page](accommodation.html) for some ideas.
+
+Our party on the night of the 14th June will be at the [Dancing Man Brewery](http://www.dancingmanbrewery.co.uk/). See [the party page](party.html) for details.
 
 ### [Sponsorship](sponsors.html)
 
