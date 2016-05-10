@@ -81,7 +81,7 @@ They offer a full range of services from high quality visualisation, project bas
 ---
 
 <a name="nautoguide"></a>
-[![alt text](images/nautoguide-logo-sm.png "NautoGuide")](https://www.nautoguide.com/)
+[![alt text](images/nautoguide-logo.png "NautoGuide")](https://www.nautoguide.com/)
 
 [Nautoguide Ltd.](http://www.nautoguide.com/) provide digital mapping services across a wide range of industry sectors. Our cloud based systems enable our customers to develop rich applications that mix digital mapping with geospatial data and customised workflow. We deliver solutions into the social housing, local authority, leisure and finance industry sectors. 
 
