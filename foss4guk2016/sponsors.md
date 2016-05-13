@@ -56,6 +56,12 @@ thinkWhere is one of the leading independent GIS consultancies in the UK. We’r
 
 what3words is a location reference system based on a global grid of 57 trillion 3mx3m squares; each square has been pre-assigned a unique 3 word address.
 Easier to remember & communicate than GPS, quicker & more cost effective to implement than street addressing this is a global & human-friendly system.
+--
+
+<a name="2ndQuadrant"></a>
+[![alt text](images/2ndq_logo_lg.png "2ndQuadrant")](http://2ndquadrant.com/en/)
+
+2ndQuadrant is the leading PostgreSQL support company, a platinum sponsor and significant contributor to PostgreSQL development and the user community.  We provide a comprehensive range of professional services, from training to migration, and from 24/7 support to remote DBA, covering the entire lifecycle of database design, deployment and management.
 
 ---
 <a name="anguscouncil"></a>
