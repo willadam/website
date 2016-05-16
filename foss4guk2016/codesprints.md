@@ -7,7 +7,5 @@ layout: foss4guk2016
 
 |Title| Main Organiser |
 |-----|-------------|
-
 |[QGIS Code Sprint](abstracts.html#qgis-code-sprint)| Saber Razmjooei|
-
 |[Humanitarian Hack with HXL](abstracts.html#humanitarian-hack-with-hxl)| Ant Scott|
