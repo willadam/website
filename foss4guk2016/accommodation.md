@@ -16,5 +16,6 @@ Try the following:
  * [Premier Inn West Quay or City Centre](http://www.premierinn.com/gb/en/home.html)
  * [Lastminute.com](http://www.lastminute.com)
  * [Booking.com](http://www.booking.com)
+ * [Airbnb Southampton](http://www.airbnb.co.uk/s/Southampton--United-Kingdom?checkin=14-06-2016&checkout=16-06-2016&ss_id=wyzcefs6&s_tag=pjFkpocR)
 
 

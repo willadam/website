@@ -5,7 +5,8 @@ layout: foss4guk2016
 
 On June 14th to 16th this year, OSGeo:UK will be bringing together open source GIS users (current and potential), developers and supporters from the UK and beyond for **FOSS4G UK 2016**: two days of conferencing plus a day's hackathon at the Ordnance Survey offices in Southampton. There will be workshops, presentations, un-conference sessions, code sprints, and plenty of socialising too.
 
-Our Call for Papers has now closed, thanks to everyone who submitted a proposal. Watch this space for a programme soon!
+* The [Provisional Timetable](timetable.html) is now available! This is subject to corrections and adjustments
+as we get nearer the date.
 
 **Reduced price tickets are now available! Check [here](#registration) for further instructions!**
 
@@ -65,4 +66,15 @@ Participants at FOSS4G UK 2016 are expected to act respectfully toward others in
 ### Contact
 
 For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk).
+
+### Donate
+
+Help us support and promote the use of open source geospatial software within the UK by donating via PayPal using the button below:
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="42G7PKK5YV6NU">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
 
