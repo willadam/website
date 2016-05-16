@@ -368,11 +368,11 @@ Although aimed at bathymetry datasets, the tool can scale-out to any application
 The “XYZ Bathymetry Processor” represents an alternative approach using open-source technology to overcome limitations of common “Industry standard” approaches, aimed at increasing processing efficiency and improving overall control and quality of image-rendering.
 The paper describes some of the approaches taken to overcome challenges of innovating with FOSS4G tools in the enterprise-dominated, marine energy sector where there is limited awareness to open source geospatial technology.
 
-### QGIS Hackathon
+### QGIS Code Sprint
 
 **Saber Razmjooei QGIS Community / Tom Chadwin QGIS Community**
 
-**Code Sprint / Hackathon**
+**Code Sprint**
 
 The session will be an unstructured code sprint day to help UK users contributing to QGIS. The topics will be mainly around documentation, bug reporting, confirming bugs and bug fixing (the later requires C++/python knowledge).
 Participants are required to set up the development environment beforehand. We will run short presentation and introduction at the beginning of the day to familiarise the participants with the work-flow and set some targets to achieve for the group, e.g. number of bugs confirmed, number of Pull Requests, etc.
@@ -380,14 +380,6 @@ All the work will be directly related to the QGIS project, but participants can 
 There is no coding skills requirement for the day but prior knowledge with GitHub will help.
 Martin Dobias, one of the QGIS core developers will be present to assist during the code sprint.  Tom Chadwin, a QGIS plugin developer who recently started contributing to the core project will be joining in person or remotely to help with documentation and plugins. Saber Razmjooei, will help with bug hunting and reporting workflow. Other power users and plugin developers from UK QGIS community will be also around to help.
 
-
-### qgis2web code sprint/hackathon
-
-**Tom Chadwin Northumberland National Park**
-
-**Code Sprint / Hackathon**
-
-Help make qgis2web even better - improve the codebase, squash bugs, and add features
 
 ### qgis2web: webmaps without code
 
