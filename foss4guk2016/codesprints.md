@@ -7,6 +7,6 @@ layout: foss4guk2016
 
 |Title| Main Organiser |
 |-----|-------------|
-|[qgis2web code sprint/hackathon](abstracts.html#qgis2web-code-sprinthackathon)| Tom Chadwin |
-|[QGIS hackathon](abstracts.html#qgis-hackathon)| Saber Razmjooei|
+
+|[QGIS Code Sprint](abstracts.html#qgis-code-sprint)| Saber Razmjooei|
 |[Humanitarian Hack with HXL](abstracts.html#humanitarian-hack-with-hxl)| Ant Scott|
