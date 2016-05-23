@@ -9,7 +9,7 @@ FOSS4G UK thanks our generous sponsors.
 
 ---
 <a name="ordnancesurvey"></a>
-[![alt text](images/os_logo.png "Ordnance Survey")](http://www.ordnancesurvey.co.uk/) 
+[![alt text](images/os_logo_lge.png "Ordnance Survey")](http://www.ordnancesurvey.co.uk/) 
 
 Ordnance Survey is Britain’s mapping agency responsible for maintaining one of the world’s largest and most accurate geospatial databases. From the database, consisting of 500 million features, OS produces a range of intelligent products and services which are used by business, government and consumers. OS also supports Open Data through the release of a number of datasets and licenses allowing developers to freely use location data. In addition OS is focussed on enabling people to use open location data, demonstrated through the Geovation Challenges over the last five years and the opening of the Geovation Hub in 2015.
 
@@ -90,5 +90,12 @@ They offer a full range of services from high quality visualisation, project bas
 [![alt text](images/nautoguide-logo.png "NautoGuide")](https://www.nautoguide.com/)
 
 [Nautoguide Ltd.](http://www.nautoguide.com/) provide digital mapping services across a wide range of industry sectors. Our cloud based systems enable our customers to develop rich applications that mix digital mapping with geospatial data and customised workflow. We deliver solutions into the social housing, local authority, leisure and finance industry sectors. 
+
+---
+
+<a name="terrabotics"></a>
+[![alt text](images/Terabotics_Logo_LARGE.png "Terrabotics")](http://www.terrabotics.co/)
+
+Terrabotics is an Earth Observation 2.0 company, actively developing and deploying software to rapidly transform terabytes of satellite, aerial and UAS imagery into 3D terrain intelligence products and services. We help industries working in remote or hazardous regions to map, measure and monitor their operations more safely and efficiently.
 
 
