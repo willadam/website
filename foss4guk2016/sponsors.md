@@ -96,6 +96,6 @@ They offer a full range of services from high quality visualisation, project bas
 <a name="terrabotics"></a>
 [![alt text](images/Terabotics_Logo_LARGE.png "Terrabotics")](http://www.terrabotics.co/)
 
-Terrabotics is an Earth Observation 2.0 company, actively developing and deploying software to rapidly transform terabytes of satellite, aerial and UAS imagery into 3D terrain intelligence products and services. We help industries working in remote or hazardous regions to map, measure and monitor their operations more safely and efficiently.
+[Terrabotics](http://www.terrabotics.co/) is an Earth Observation 2.0 company, actively developing and deploying software to rapidly transform terabytes of satellite, aerial and UAS imagery into 3D terrain intelligence products and services. We help industries working in remote or hazardous regions to map, measure and monitor their operations more safely and efficiently.
 
 
