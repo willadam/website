@@ -37,7 +37,7 @@ Google’s Open Source Programs Office serves the open source community through 
 ---
 
 <a name="scisys"></a>
-[![alt text](images/scisys_logo.png "SCISYS")](http://http://gis.scisys.co.uk/)
+[![alt text](images/scisys_logo.png "SCISYS")](http://gis.scisys.co.uk/)
 
 At SCISYS we are first and foremost software developers and we have been providing customer solutions for over 35 years. For much of this we have also been involved in geospatial services and we employ a dedicated team of mapheads. This combination means that we can tackle the whole project in an integrated way and not just address the mapping elements.
 We are technology agnostic and over the years have utilised a range of geospatial tools. Currently we are excited by the power of open (both source and standards) to extend an organisation’s existing investment in spatial services and to integrate those services directly into the business process.
