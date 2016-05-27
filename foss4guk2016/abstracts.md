@@ -141,7 +141,7 @@ Road gradient markers are incredibly useful. They tell us where the "steepness" 
 
 ### From 2.5D to 4D Exploring other dimensions
 
-**Nicholas Duggan Garsdale Design Ltd / Elliot Hartley Garsdale Design Ltd**
+**Nicholas Duggan Garsdale Design Ltd**
 
 **Presentation**
 
