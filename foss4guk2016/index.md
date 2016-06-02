@@ -5,8 +5,10 @@ layout: foss4guk2016
 
 On June 14th to 16th this year, OSGeo:UK will be bringing together open source GIS users (current and potential), developers and supporters from the UK and beyond for **FOSS4G UK 2016**: two days of conferencing plus a day's hackathon at the Ordnance Survey offices in Southampton. There will be workshops, presentations, un-conference sessions, code sprints, and plenty of socialising too.
 
-* The [Provisional Timetable](timetable.html) is now available! This is subject to corrections and adjustments
-as we get nearer the date.
+**Student bursary now available! Check [here](#students) for details!**
+
+**The [Provisional Timetable](timetable.html) is now available! This is subject to corrections and adjustments
+as we get nearer the date.**
 
 **Reduced price tickets are now available! Check [here](#registration) for further instructions!**
 
@@ -59,6 +61,17 @@ Our party on the night of the 14th June will be at the [Dancing Man Brewery](htt
 ### [Sponsorship](sponsors.html)
 
 We want to keep the cost of entry to FOSS4GUK as low as possible - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. To find out about sponsorship, send Steven a message via [http://knowwhereconsulting.co.uk/contact/](http://knowwhereconsulting.co.uk/contact/).
+
+### Students
+
+Thanks to the generosity of the AGI and our other sponsors we have some free places available for students.  If you would like to attend FOSS4GUK mail the team at osgeouk@gmail.com with the subject 'Student Bursary' telling them: 
+
+ * The details of your current course of study
+ * Why you want to attend FOSS4G UK?
+ * Day 1, Day 2 or both?
+ * Are you prepared to offer a small amount of time to help the organisers?
+
+**Confirm that you can meet your own travel and accommodation costs - FOSS4GUK will pay the delegate fee, lunches and attendance at the party on Tuesday night**
 
 ### Code of Conduct
 Participants at FOSS4G UK 2016 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
