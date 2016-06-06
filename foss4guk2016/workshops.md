@@ -3,7 +3,7 @@ layout: foss4guk2016
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : Workshops
 
-**Note that this information is subject to change without warning**
+**See [workshop requirements](workshopHackRequirements.html) for details on what you will need to bring if you are planning to attend these workshops**
 
 |Title| Main Presenter |
 |-----|-------------|
