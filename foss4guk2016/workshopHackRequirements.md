@@ -52,8 +52,9 @@ Java 8 jre or jdk and either Oracle or openjdk.
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#turning-data-into-information-using-open-source-tools)
 
-**Software/Hardware Requirements**<br>
-QGIS 2.14, NodeJS
+**Software/Hardware Requirements**<br />
+QGIS 2.14, NodeJS<br />
+Please register for a free cartoDB account before the workshop, and you will also need a good text editor for the coding parts.
 
 - - -
 
