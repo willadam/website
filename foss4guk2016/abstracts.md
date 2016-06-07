@@ -208,7 +208,13 @@ This presentation will look at the design and implementation of QGIS training, a
 
 **Code Sprint / Hackathon**
 
-HXL (Humanitarian Exchange Language) has been released this year - a new standard, 'designed to improve information sharing during a humanitarian crisis without adding extra reporting burdens'. It uses a controlled but extensible set of hashtags, added as the first column of a spreadsheet, to classify data. MapAction and British Red Cross (tbc) are proposing a hack to develop ways of  using this to support data discovery and usage for spatial data, including, for example, integrating with QGIS, and making use of CKAN. This proposal is still under development, and a fuller brief will be put together over the next few weeks. 
+HXL (Humanitarian Exchange Language) has been released this year - a new standard, 'designed to improve information sharing during a humanitarian crisis without adding extra reporting burdens'. It uses a controlled but extensible set of hashtags, added as the first column of a spreadsheet, to classify data. MapAction is proposing a hack to develop ways of using this to support data discovery and usage for spatial data, including, for example, integrating with QGIS, and making use of CKAN. 
+
+HXL has been developed with the support of UNOCHA (The United Nations Office for the Coordination of Humanitarian Affairs). OCHA also manage HDX (Humanitarian Data Exchange), used to support the work of humanitarian organisations both during crises and at other times. Limited work has been done with HXL to date but it is seen as an important means of allowing shared data to be re-used effectively. HDX uses CKAN as its back end, and is open source - the code is on Github. MapAction, who provide maps to support humanitarian response, are also developing their own data and products repository, also using CKAN and linked to HXL.
+
+Like all standards, HXL is only going to be useful when tools support it - so the hack could explore ways in which HXL data could be integrated into humanitarian data workflows, for example through automated default tag-driven styling in QGIS, or metadata creation in CKAN. Possible outputs could one or more of requirements definitions, proposed integration architecture, simple prototype.
+
+http://hxlstandard.org/
 
 ### Improving Open Source GIS Workflow with a SLD Editor
 
