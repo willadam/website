@@ -212,7 +212,7 @@ HXL (Humanitarian Exchange Language) has been released this year - a new standar
 
 HXL has been developed with the support of UNOCHA (The United Nations Office for the Coordination of Humanitarian Affairs). OCHA also manage HDX (Humanitarian Data Exchange), used to support the work of humanitarian organisations both during crises and at other times. Limited work has been done with HXL to date but it is seen as an important means of allowing shared data to be re-used effectively. HDX uses CKAN as its back end, and is open source - the code is on Github. MapAction, who provide maps to support humanitarian response, are also developing their own data and products repository, also using CKAN and linked to HXL.
 
-Like all standards, HXL is only going to be useful when tools support it - so the hack could explore ways in which HXL data could be integrated into humanitarian data workflows, for example through automated default tag-driven styling in QGIS, or metadata creation in CKAN. Possible outputs could one or more of requirements definitions, proposed integration architecture, simple prototype.
+Like all standards, HXL is only going to be useful when tools support it - so the hack could explore ways in which HXL data could be integrated into humanitarian data workflows, for example through automated default tag-driven styling in QGIS, or metadata creation in CKAN. Possible outputs could be one or more of requirements definitions, proposed integration architecture, simple prototype.
 
 http://hxlstandard.org/
 
