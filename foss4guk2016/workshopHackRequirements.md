@@ -124,7 +124,10 @@ Printed handouts with instructions will be provided; the data used can be downlo
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit)
 
 **Software Requirements** <br>
-GitHub account, decent text editor (not word or notepad). Atom is good. QGIS 2.14 would be good but not essential
+
+See [archaeogeek.github.io/foss4gukdontbeafraid/intro/index.html](http://archaeogeek.github.io/foss4gukdontbeafraid/intro/index.html)<br />
+
+Basically you need a GitHub account, and Git installed. See the link above for info on your options. You also need a decent text editor (not word or notepad). Atom is good. QGIS 2.14 would be good but not essential
 
 - - -
 
@@ -190,8 +193,14 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#getting-started-with-openlayers)
 
-**Software Requirements** <br>
-TBA
+**Software Requirements** <br />
+
+A text editor like Atom, Brackets, Sublime Text, Texmate (Mac only), Gedit (Linux only), Notepad++ (Windows only). <br />
+
+An http server. If you don't have one installed (such as Apache) already then try one of the following methods: 
+
+ * Install [Node](https://nodejs.org/en/) and then do "npm install http-server" at a command prompt
+ * Install Python and run "python -m SimpleHttpServer" to run the server on port 8000
 
  - - -
 
