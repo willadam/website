@@ -39,8 +39,8 @@ For more info please see [http://barryrowlingson.github.io/r-mapping-2016/](http
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#introduction-to-geoserver)
 
 **Software/Hardware Requirements** <br>
-Ian will provide download pack on the Astun ftp site for attendees, OSGeo-Live can be used if you have virtual box installed. <br>
-Java 8 jre or jdk and either Oracle or openjdk.
+This is a bring your own laptop workshop, the code has all been tested on Windows and Linux machines but should work on a 
+Mac too. You will need to have installed Java either from [Oracle](https://java.com/en/download/) or [OpenJDK](http://openjdk.java.net/install/) on your machine. You will then need to download the materials needed for the course from [ftp.astuntechnology.com](ftp://ftp.astuntechnology.com/foss4guk-workshop.zip).
 
 - - -
 
