@@ -217,6 +217,6 @@ Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-fo
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#humanitarian-hack-with-hxl)
 
 **Software Requirements** <br>
-TBA
+None. Must be able to access the internet.
 
  - - -
