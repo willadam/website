@@ -49,7 +49,7 @@ In this talk I will present how BRIN indexes can be used on geographical databas
 
 ### Bulk processing, data sharing and visualization of Sentinel-derived products
 
-**Giulio Pagan Airbus Defence and Space**
+**Giulio Pagan Airbus Defence and Space / Thomas Lankester Airbus Defence and Space**
 
 **Presentation**
 
