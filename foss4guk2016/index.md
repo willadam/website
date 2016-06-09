@@ -24,7 +24,9 @@ In other words like this ([FOSS4G 2013, Nottingham](http://2013.foss4g.org/)) on
 Tuesday 14th to Thursday 16th June 2016.
 
 * Main Conference: Tuesday 14th and Wednesday 15th June
-* Hackathon: Thursday 16th June
+* Codesprint/Hackathon: Thursday 16th June
+
+Registration is open from 8.30AM every day, and the conference kicks off at 9.30. Be early to sign up for workshops!
 
 ### Where
 
