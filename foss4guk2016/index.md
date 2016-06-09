@@ -7,10 +7,9 @@ On June 14th to 16th this year, OSGeo:UK will be bringing together open source G
 
 **Student bursary now available! Check [here](#students) for details!**
 
-**The [Provisional Timetable](timetable.html) is now available! This is subject to corrections and adjustments
-as we get nearer the date.**
+**The [Timetable](timetable.html) is now available! Check it out for registration times and room sizes**
 
-**Reduced price tickets are now available! Check [here](#registration) for further instructions!**
+**We're sold out of day 1 and day 2 tickets, but have limited party, codesprint and hack tickets left. Check [here](#registration) for further instructions!**
 
 ### What
 
@@ -50,7 +49,7 @@ For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/
 
 ### Registration
 
-Reduced price tickets are now available, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
+We've sold out of day 1 and day 2 tickets, but have limited party, codesprint and hack tickets left. Visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) if you'd like to buy a ticket.
 
 ### Accommodation and Party
 
