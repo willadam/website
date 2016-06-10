@@ -89,15 +89,19 @@ qgis2web (QGIS plugin)
 
 ### Using to pgRouting to determine service location and allocate resources ###
 
-**Ross McDonald, Angus Council/ Tim Martin, Ordnance Survey / Ian Bennett, Ordnance Survey**
+**Ross McDonald, Angus Council / Tim Manners, Ordnance Survey / Ian Bennett, Ordnance Survey**
 
 **Workshop (2 hours) / Target Audience: Beginner to intermediate QGIS and PostGIS users**
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#using-to-pgrouting-to-determine-service-location-and-allocate-resources) 
 
-**Software/Hardware Requirements** <br>
-OSGEO-Live. <br>
-Data will be available at the workshop and a link to the data will be provided.
+**Software/Hardware Requirements**
+
+OSGEO-Live DVD or VMDK.
+
+See the [workshop notes](https://mixedbredie.github.io/pgrouting-workshop) for more details.
+
+Data will be available at the workshop and a link to the data is [here](https://dl.dropboxusercontent.com/u/25604821/pgrouting-workshop.zip).
 
 - - -
 
