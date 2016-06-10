@@ -111,7 +111,7 @@ Data will be available at the workshop and a link to the data will be provided.
 
 **Software Requirements** <br>
 QGIS 2.14 <br>
-The data for the workshop can be downloaded from [ShareGeo](http://bit.ly/VizArtFOSS4GUK16).
+The data for the workshop can be downloaded from [ShareGeo](http://bit.ly/VizArtFOSS4GUK16). <br>
 Printed handouts with instructions will be provided. <br>
 
 - - -
