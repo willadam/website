@@ -364,7 +364,7 @@ A look at the Open-Source tools and software used by Windsor and Maidenhead Boro
 
 ### Processing marine DTM’s - like a boss!
 
-**Gareth Grewcock LR Senergy**
+**Sam Franklin LR Senergy**
 
 **Presentation**
 
