@@ -3,14 +3,16 @@ layout: foss4guk2016
 ---
 
 ## HXL Hack at FOSS4G UK 2016 - Briefing Notes ##
-For (often-messy) real-world data, you can find 862 HXL-tagged datasets at [https://data.humdata.org/dataset/tag/hxl](https://data.humdata.org/dataset/tag/hxl) — some of those are more-or-less complex. Many of those datasets contain humanitarian admin codes called "p-codes", which typically don't correspond to ISO codes below the country level, but you can find the underlying map data here: [https://data.humdata.org/cods](https://data.humdata.org/cods).
+For (often-messy) real-world data, you can find 862 HXL-tagged datasets at [HDX](https://data.humdata.org/search?q=&ext_page_size=25&sort=metadata_modified+desc&tags=hxl#dataset-filter-start) — some of those are more-or-less complex. Many of those datasets contain humanitarian admin codes called "p-codes", which typically don't correspond to ISO codes below the country level, but you can find the underlying map data here: [https://data.humdata.org/cods](https://data.humdata.org/cods).
 
 For simpler, canned sample data (which often fits better onto slides for a short workshop), we have some public data samples in a Public HXL data shared Google Drive folder. Some of those are a bit old, but a good starting point for beginners is [¡Hola, HXL!](https://docs.google.com/spreadsheets/d/1ytPD-f4a8CbNKTfMS3EqZOpBo9LWCk_NDKxJCgmpXA8/edit?usp=sharing), a Hello, World! based an extremely simplified example of a humanitarian 3W (who-what-where) activity list.
-[HXL Public Data Google Drive](https://drive.google.com/folderview?id=0B-v0ZsXcKCfafnRNUGFzQjZrS3JGQWQzQUhCWEhPWnl4Q3RNYWZBczF3MTR5ZmkxLVNCM2M)
-[Burundi Map](https://beta.proxy.hxlstandard.org/data/map?default_country=BDI&pcode_tag=%23adm1%2Bcode&count-tags01=adm1%2Bname%2Cadm1%2Bcode&default_country=BDI&filter01=count&pcode_tag=&url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1JFiTOZIs6JUjtFWOsgk0v_Qzf4-rd8iQgrcMwiLlCUo%2Fedit)
+
+* [HXL Public Data Google Drive](https://drive.google.com/folderview?id=0B-v0ZsXcKCfafnRNUGFzQjZrS3JGQWQzQUhCWEhPWnl4Q3RNYWZBczF3MTR5ZmkxLVNCM2M)
+* [Burundi Map](https://beta.proxy.hxlstandard.org/data/map?default_country=BDI&pcode_tag=%23adm1%2Bcode&count-tags01=adm1%2Bname%2Cadm1%2Bcode&default_country=BDI&filter01=count&pcode_tag=&url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1JFiTOZIs6JUjtFWOsgk0v_Qzf4-rd8iQgrcMwiLlCUo%2Fedit)
 
 
 There are several main use cases for HXL:
+
 * Validation (driven by a simple schema which is itself encoded in HXL).
 * Cleaning.
 * Appending multiple source files, and/or joining datasets horizontally (using shared keys).
