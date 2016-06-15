@@ -4,7 +4,8 @@ layout: default
 
 ### Events
 
-* [FOSS4G UK 2016](/foss4guk2016)
+* [FOSS4G UK 2016](/foss4guk2016) 14th-16th June 2016
+* [OSGeo:UK AGM 2016](./agm/agm2016.html) 5.30pm BST 14th June 2016
 
 #### Past events
 

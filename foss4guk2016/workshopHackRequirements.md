@@ -39,8 +39,8 @@ For more info please see [http://barryrowlingson.github.io/r-mapping-2016/](http
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#introduction-to-geoserver)
 
 **Software/Hardware Requirements** <br>
-Ian will provide download pack on the Astun ftp site for attendees, OSGeo-Live can be used if you have virtual box installed. <br>
-Java 8 jre or jdk and either Oracle or openjdk.
+This is a bring your own laptop workshop, the code has all been tested on Windows and Linux machines but should work on a 
+Mac too. You will need to have installed Java either from [Oracle](https://java.com/en/download/) or [OpenJDK](http://openjdk.java.net/install/) on your machine. You will then need to download the materials needed for the course from [ftp.astuntechnology.com](ftp://ftp.astuntechnology.com/foss4guk-workshop.zip).
 
 - - -
 
@@ -89,15 +89,19 @@ qgis2web (QGIS plugin)
 
 ### Using to pgRouting to determine service location and allocate resources ###
 
-**Ross McDonald, Angus Council/ Tim Martin, Ordnance Survey / Ian Bennett, Ordnance Survey**
+**Ross McDonald, Angus Council / Tim Manners, Ordnance Survey / Ian Bennett, Ordnance Survey**
 
 **Workshop (2 hours) / Target Audience: Beginner to intermediate QGIS and PostGIS users**
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#using-to-pgrouting-to-determine-service-location-and-allocate-resources) 
 
-**Software/Hardware Requirements** <br>
-OSGEO-Live. <br>
-Data will be available at the workshop and a link to the data will be provided.
+**Software/Hardware Requirements**
+
+OSGEO-Live DVD or VMDK.
+
+See the [workshop notes](https://mixedbredie.github.io/pgrouting-workshop) for more details.
+
+Data will be available at the workshop and a link to the data is [here](https://dl.dropboxusercontent.com/u/25604821/pgrouting-workshop.zip).
 
 - - -
 
@@ -111,7 +115,8 @@ Data will be available at the workshop and a link to the data will be provided.
 
 **Software Requirements** <br>
 QGIS 2.14 <br>
-Printed handouts with instructions will be provided; the data used can be downloaded from ShareGeo ahead of the workshop.
+The data for the workshop can be downloaded from [ShareGeo](http://bit.ly/VizArtFOSS4GUK16). <br>
+Printed handouts with instructions will be provided. <br>
 
 - - -
 
@@ -124,7 +129,10 @@ Printed handouts with instructions will be provided; the data used can be downlo
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#dont-be-afraid-to-commit)
 
 **Software Requirements** <br>
-GitHub account, decent text editor (not word or notepad). Atom is good. QGIS 2.14 would be good but not essential
+
+See [archaeogeek.github.io/foss4gukdontbeafraid/intro/index.html](http://archaeogeek.github.io/foss4gukdontbeafraid/intro/index.html)<br />
+
+Basically you need a GitHub account, and Git installed. See the link above for info on your options. You also need a decent text editor (not word or notepad). Atom is good. QGIS 2.14 would be good but not essential
 
 - - -
 
@@ -190,8 +198,14 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#getting-started-with-openlayers)
 
-**Software Requirements** <br>
-TBA
+**Software Requirements** <br />
+
+A text editor like Atom, Brackets, Sublime Text, Texmate (Mac only), Gedit (Linux only), Notepad++ (Windows only). <br />
+
+An http server. If you don't have one installed (such as Apache) already then try one of the following methods: 
+
+ * Install [Node](https://nodejs.org/en/) and then do "npm install http-server" at a command prompt
+ * Install Python and run "python -m SimpleHttpServer" to run the server on port 8000
 
  - - -
 
@@ -217,6 +231,6 @@ Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-fo
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#humanitarian-hack-with-hxl)
 
 **Software Requirements** <br>
-TBA
+None. Must be able to access the internet.
 
  - - -

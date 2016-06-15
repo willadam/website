@@ -5,19 +5,16 @@ layout: foss4guk2016
 
 On June 14th to 16th this year, OSGeo:UK will be bringing together open source GIS users (current and potential), developers and supporters from the UK and beyond for **FOSS4G UK 2016**: two days of conferencing plus a day's hackathon at the Ordnance Survey offices in Southampton. There will be workshops, presentations, un-conference sessions, code sprints, and plenty of socialising too.
 
-**Student bursary now available! Check [here](#students) for details!**
+**The [Timetable](timetable.html) is now available! Check it out for registration times and room sizes**
 
-**The [Provisional Timetable](timetable.html) is now available! This is subject to corrections and adjustments
-as we get nearer the date.**
-
-**Reduced price tickets are now available! Check [here](#registration) for further instructions!**
+**We're sold out of day 1 and day 2 tickets, but have limited party, codesprint and hack tickets left. Check [here](#registration) for further instructions!**
 
 ### What
 
 * [Presentations: user stories, applications, demonstrations, discussions, case studies](talks.html){:target="what"}
 * [Workshops: doing and learning](workshops.html){:target="what"}
 * [Code sprints and Hackathons: developing](codesprints.html){:target="what"}
-* [Unconference and Surgery](unconference.html){:target="what"}
+* [Unconference](unconference.html){:target="what"}
 
 In other words like this ([FOSS4G 2013, Nottingham](http://2013.foss4g.org/)) only perhaps a bit smaller.
 [![FOSS4G 2013](https://farm4.staticflickr.com/3774/9904608205_bca6385c81_b.jpg)](https://www.flickr.com/photos/spacedman/9904213276/in/pool-foss4g/)
@@ -27,7 +24,9 @@ In other words like this ([FOSS4G 2013, Nottingham](http://2013.foss4g.org/)) on
 Tuesday 14th to Thursday 16th June 2016.
 
 * Main Conference: Tuesday 14th and Wednesday 15th June
-* Hackathon: Thursday 16th June
+* Codesprint/Hackathon: Thursday 16th June
+
+Registration is open from 8.30AM every day, and the conference kicks off at 9.30. Be early to sign up for workshops!
 
 ### Where
 
@@ -50,7 +49,7 @@ For full details, see [here](https://www.ordnancesurvey.co.uk/about/head-office/
 
 ### Registration
 
-Reduced price tickets are now available, visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) to buy your ticket!
+We've sold out of day 1 and day 2 tickets, but have limited party, codesprint and hack tickets left. Visit [Eventbrite](http://foss4guk.eventbrite.co.uk/) if you'd like to buy a ticket.
 
 ### Accommodation and Party
 

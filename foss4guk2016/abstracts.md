@@ -49,7 +49,7 @@ In this talk I will present how BRIN indexes can be used on geographical databas
 
 ### Bulk processing, data sharing and visualization of Sentinel-derived products
 
-**Giulio Pagan Airbus Defence and Space**
+**Giulio Pagan Airbus Defence and Space / Thomas Lankester Airbus Defence and Space**
 
 **Presentation**
 
@@ -364,7 +364,7 @@ A look at the Open-Source tools and software used by Windsor and Maidenhead Boro
 
 ### Processing marine DTM’s - like a boss!
 
-**Gareth Grewcock LR Senergy**
+**Sam Franklin LR Senergy**
 
 **Presentation**
 
@@ -548,7 +548,7 @@ The workshop material will be made available before hand as a virtual machine im
 
 A QGIS workshop to introduce users to a range of data visualisation plugins. A geoparsed biography will be the core dataset which will be manipulated in a range of ways to produce interesting views of the data.
 
-Plugins used: Heatmap, OpenLayers, MMQGIS, QGIS2ThreeJS, TimeManager
+Plugins used: Heatmap, QuickMapServices, MMQGIS, QGIS2ThreeJS, TimeManager
 
 The workshop will take the participants through the process of creating point data from a csv file; overlaying it on a Stamen OSM basemap; visualising it as a heatmap; spatially joining it to polygonal demographic data; create a hexagonal grid to sample the data; create 3D skyscraper diagram from the joined datasets; and finally, use the TimeManager plugin to view how the point distribution varies over time.
 
