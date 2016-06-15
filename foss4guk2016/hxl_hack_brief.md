@@ -1,3 +1,7 @@
+---
+layout: foss4guk2016
+---
+
 ## HXL Hack at FOSS4G UK 2016 - Briefing Notes ##
 For (often-messy) real-world data, you can find 862 HXL-tagged datasets at [https://data.humdata.org/dataset/tag/hxl](https://data.humdata.org/dataset/tag/hxl) — some of those are more-or-less complex. Many of those datasets contain humanitarian admin codes called "p-codes", which typically don't correspond to ISO codes below the country level, but you can find the underlying map data here: [https://data.humdata.org/cods](https://data.humdata.org/cods).
 
