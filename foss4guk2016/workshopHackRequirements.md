@@ -229,6 +229,7 @@ Please see [http://www.lutraconsulting.co.uk/blog/2016/05/31/qgis-code-sprint-fo
 **Code Sprint / Hackathon**
 
 [Description](http://uk.osgeo.org/foss4guk2016/abstracts.html#humanitarian-hack-with-hxl)
+[Brief](http://uk.osgeo.org/foss4guk2016/hxl_hack_brief.html)
 
 **Software Requirements** <br>
 None. Must be able to access the internet.
