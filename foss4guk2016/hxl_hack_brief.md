@@ -29,4 +29,5 @@ The HXL Proxy also contains tools for automatically tagging non-HXL datasets on 
 
 I'm happy to help with any questions you have about the HXL Proxy. To get started, here's a map of a 3W for Burundi, generated with a few mouse clicks: [Burundi map](https://beta.proxy.hxlstandard.org/data/map?default_country=BDI&pcode_tag=%23adm1%2Bcode&count-tags01=adm1%2Bname%2Cadm1%2Bcode&default_country=BDI&filter01=count&pcode_tag=&url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1JFiTOZIs6JUjtFWOsgk0v_Qzf4-rd8iQgrcMwiLlCUo%2Fedit).
 
+[Folder for tagged examples](https://t.co/BnX2j0sNdA)
 
