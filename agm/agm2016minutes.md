@@ -8,7 +8,8 @@ Jo Cook 17th June 2016
 
 ## Reports and Accounts
 
-We don't have any firm accounts yet as we're still sorting out the bills for FOSS4GUK. However, we should make a small surplus on that event, which will feed back into the OSGeo:UK funds.
+Steven explained that we had an initial balance of just over £7,000 which was a donation from FOSS4G 2013
+We don't have any firm accounts yet as we're still sorting out the bills for FOSS4GUK. However, we should make a  surplus on the event, which will feed back into the OSGeo:UK funds.
 
 ## Officers 
 
@@ -27,10 +28,10 @@ Seconded by Angharad Stone and Jeremy Morley and agreed.
 
 ## Membership Fees
 
- * We will have a two-tier membership. Standard members will be the same as now, eg it will be open to all, discussions will happen via the mailing list. 
- * We will charge for voting membership. Voting members have the responsibility to vote when asked. OSGeo:UK will incur costs to administer this, so a small admin charge will be applied.
- * Company membership will entitle the company to probably two voting members and a logo on the website. This will be around £80 a year.
- * Sam Franklin noted that the existing PayPal "Donate" button on the website makes it hard for him to persuade his company that it's a membership rather than a donation so we need to adjust this when we include the membership options.
+ * We will have a two-tier membership. Standard members will be the same as now, i.e. it will be open to all, discussions will happen via the mailing list. 
+ * We will charge for voting membership. Voting members have the responsibility to vote when asked. OSGeo:UK will incur costs to administer this, so a small admin charge (<£10, probably £5) will be applied.
+ * Company membership will entitle the company to probably one or two voting members and a logo on the website. The cost will be around £80-100 a year.
+ * Sam Franklin noted that the existing PayPal "Donate" button on the website makes it hard for him to persuade his company that it's a membership rather than a donation so we need to adjust this when we announce the membership options.
 
 ## Future Events
 
