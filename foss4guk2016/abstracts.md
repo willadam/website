@@ -138,7 +138,8 @@ the next day.
 **Presentation**
 
 Road gradient markers are incredibly useful. They tell us where the "steepness" is and can be used to deter drivers in ice weather or encourage fanatical cyclists to seek out yet another hill. Dave Barter has started a journey attempting to use open source tools and data to find these gradients in the UK and add them to the map. His talk will cover how to load and analyse raster and vector height data. How to write POSTGRES/PostGIS code to find the gradients and how to construct a simple plugin in QGIS to view them.
-[Slides](https://github.com/nautoguide/gradient_markers)
+
+* [Slides](https://github.com/nautoguide/gradient_markers)
 
 ### From 2.5D to 4D Exploring other dimensions
 
@@ -148,7 +149,8 @@ Road gradient markers are incredibly useful. They tell us where the "steepness" 
 
 Demonstrating how 2.5D, 3D & 4D are used in Urban Planning and how it is achieved using open source. 
 This will cover QGIS 2.5D renderer (using z values), Cesiumjs & 2.5D with Time Manager.  
-[Slides](http://bit.ly/FOSS4GUK)
+
+* [Slides](http://bit.ly/FOSS4GUK)
 
 ### Geo4All - Empowering Communities for a better world 
 
@@ -174,7 +176,8 @@ We'll write a serverless web app using Firebase as backend and GeoFire to store 
 
 This workshop will introduce by the example how to begin with OpenLayers 3. It will go through how to create you first map, use various available layers, manage interactions on the map and use vector data with the styles.
 Along, you will learn where and how to use Openlayers resources when you need to go further.
-[Samples](http://webgeodatavore.github.io/pyqgis-samples/)
+
+* [Samples](http://webgeodatavore.github.io/pyqgis-samples/)
 
 ### GOST - Go implementation of OGC SensorThings API
 
@@ -188,7 +191,7 @@ This presentation will dive deep in the journey of building GOST: an OGC SensorT
 
 https://github.com/geodan/gost
 
-[Slides](http://slides.com/bertt/gost_foss4guk)
+* [Slides](http://slides.com/bertt/gost_foss4guk)
 
 
 ### How to draw a polygon
@@ -206,7 +209,8 @@ A quest to simplify the process of capturing and maintaining geographic data, to
 **Presentation**
 
 This presentation will look at the design and implementation of QGIS training, aiming to help course designers maximise learning for trainees within the constraints they are operating within. A number of different models for teaching QGIS (to people both with and without GIS experience) will be reviewed, trying to identify factors which can improve learning outcomes and some which can hinder them. There will be recommendations for resources, structural approaches, and course curricula. Ant will draw on five years of experience running training on QGIS, covering UK local government, commercial organisations, and humanitarian organisations, from two hour workshops to three day courses.
-[Slides](https://drive.google.com/file/d/0B4W_Kvx6vYhTVFk2eEhzRTBDRUU/view?usp=sharing)
+
+* [Slides](https://drive.google.com/file/d/0B4W_Kvx6vYhTVFk2eEhzRTBDRUU/view?usp=sharing)
 
 
 ###  Humanitarian Hack with HXL
@@ -368,7 +372,8 @@ And what does this all have to do with the price of butter?!
 **Presentation**
 
 A look at the Open-Source tools and software used by Windsor and Maidenhead Borough Council in delivering GIS and data integration.
-[Slides](https://github.com/geosmiles/presentations/blob/master/Foss4g%20uk.pdf)
+
+* [Slides](https://github.com/geosmiles/presentations/blob/master/Foss4g%20uk.pdf)
 
 ### Processing marine DTM’s - like a boss!
 
@@ -381,7 +386,8 @@ This paper describes LR Senergy “XYZ Bathymetry Processor”, which combines g
 Although aimed at bathymetry datasets, the tool can scale-out to any application where 3-column gridded XYZ file types are used, e.g. for LiDAR or onshore topographic DTM.
 The “XYZ Bathymetry Processor” represents an alternative approach using open-source technology to overcome limitations of common “Industry standard” approaches, aimed at increasing processing efficiency and improving overall control and quality of image-rendering.
 The paper describes some of the approaches taken to overcome challenges of innovating with FOSS4G tools in the enterprise-dominated, marine energy sector where there is limited awareness to open source geospatial technology.
-[Slides](http://slides.com/garethgrewcock/foss4guk-marine-dtm#/)
+
+* [Slides](http://slides.com/garethgrewcock/foss4guk-marine-dtm#/)
 
 
 ### QGIS Code Sprint
@@ -404,7 +410,8 @@ Martin Dobias, one of the QGIS core developers will be present to assist during 
 **Workshop (2 hours) / Target Audience: QGIS users**
 
 Learn to make webmaps from your QGIS projects without ever touching any code, and without any server-side software. Learn how to style vector data, and even create 2.5d webmaps.
-[Slides](https://tomchadwin.github.io/foss4guk2016/talk/qgis2web.html)
+
+* [Slides](https://tomchadwin.github.io/foss4guk2016/talk/qgis2web.html)
 
 ### roadNet: a tale of QGIS, automatic feature updating and repositories in the cloud
 
@@ -485,7 +492,8 @@ Have you ever wondered?
 - How can I contribute to open source if I am not a developer?
 
 This talk will explore the open source business model and the motivations of individuals, organisations and businesses that contribute to open source projects. It will hopefully prompt a discussion on what might be reasonably expected of users of open source software.
-[Slides](https://drive.google.com/open?id=1nxybzM5JqKxGLgxQzy3cOYnbeG2smw1F7Cx2qBGYJ9k)
+
+* [Slides](https://drive.google.com/open?id=1nxybzM5JqKxGLgxQzy3cOYnbeG2smw1F7Cx2qBGYJ9k)
 
 ### qgis2web: the code behind webmaps without code
 
@@ -529,7 +537,7 @@ Blender is a free and open source tool for 3d modelling, rendering and animation
 
 A talk about using OS road network datasets with pgRouting and a comparison of functionality provided with each dataset.  I will also highlight the differences in building valid network topologies and difficulties presented with different load methods and data structure.  I will use real world examples of how it was applied at Angus Council in an accessibility study and a resource allocation project.  I will present some of the optimisations I made to improve both performance of the network algorithms and the QGIS pgRouting Layer plugin.
 
-[Slides](http://ghost.mixedbredie.net/foss4g-uk-2016)
+* [Slides](http://ghost.mixedbredie.net/foss4g-uk-2016)
 
 ### Using Python and Jupyter Notebooks for Geographical Data Munging
 
@@ -569,7 +577,8 @@ The workshop will take the participants through the process of creating point da
 The final outputs will be a 3D model and viewer as a webpage created in QGIS2ThreeJS and an animated heat map as an mp4 movie made using TimeManager. 
 
 Printed handouts with instructions can be provided; the data used can be downloaded from ShareGeo ahead of the workshop.
-[Data and Workbook](http://bit.ly/VizArtFOSS4GUK16)
+
+* [Data and Workbook](http://bit.ly/VizArtFOSS4GUK16)
 
 ### What OpenLayers can do for you? Usages and ecosystem
 
