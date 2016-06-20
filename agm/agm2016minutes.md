@@ -12,7 +12,13 @@ We don't have any firm accounts yet as we're still sorting out the bills for FOS
 
 ##Officers 
 
-All existing officers are happy to stand for the next year. Seconded by Angharad Stone and Jeremy Morley.
+All existing officers are happy to stand for the next year.
+
+* Chair: Jo Cook
+* Treasurer: Steven Feldman
+* Secretary: Antony Scott
+
+Seconded by Angharad Stone and Jeremy Morley and agreed.
 
 ##Use of funds
 
