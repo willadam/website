@@ -177,7 +177,8 @@ We'll write a serverless web app using Firebase as backend and GeoFire to store 
 This workshop will introduce by the example how to begin with OpenLayers 3. It will go through how to create you first map, use various available layers, manage interactions on the map and use vector data with the styles.
 Along, you will learn where and how to use Openlayers resources when you need to go further.
 
-* [Samples](http://webgeodatavore.github.io/pyqgis-samples/)
+* [Presentation](http://labs.webgeodatavore.com/workshop-openlayers-3-foss4g-uk-2016/)
+* [Workshop content (presentation and samples)](http://labs.webgeodatavore.com/workshop-openlayers-3-foss4g-uk-2016/openlayers-workshop.zip) with [sources](https://github.com/webgeodatavore/workshop/tree/ol3-foss4g-uk-2016)
 
 ### GOST - Go implementation of OGC SensorThings API
 
