@@ -315,6 +315,8 @@ pretty effects that can enhance your web mapping.
 
 Leaflet aim's to be light weight. As such sometimes it misses out on functionality we see in other mapping frameworks. This talk looks to see how we can get the most out of Leaflet through the power that its open source plugins provide. Examining specific, common operations such as Geocoders, Geoprocessing and Drawing we will take a look at examples for each and how to make the most out of the functionality available. It will also take a look at the limitations and implications of using such frameworks.
 
+* [Slides](http://slides.com/jamesmilner/leaflet-plugins/)
+
 ### Managing National Load MasterMap and Maintaining History
 
 **Aileen Heal Astun Technology**
@@ -588,6 +590,8 @@ Printed handouts with instructions can be provided; the data used can be downloa
 **Presentation**
 
 OpenLayers 3 is more and more mature and is a widely adopted solution for web mapping. We will review some real usages of the library and will also help you discover the ecosystem around like plugins and other related libraries. We intend to give an overview of the library possibilities instead of focusing on some particular features.
+
+* [Slides](http://labs.webgeodatavore.com/presentation-openlayers-foss4g-uk-2016/) with [sources](https://github.com/ThomasG77/foss4g-uk-2016-openlayers-presentation)
 
 ### What time is it? It's Maptime!
 
