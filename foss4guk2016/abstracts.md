@@ -47,6 +47,8 @@ BRINs (Block Range INdexes) are one of the major new features introduced with Po
 These features make BRIN particularly suitable for very large tables, and more in general for query with a low-selectivity that would be executed preferring a sequential scan of all tables' blocks instead of using indexes.
 In this talk I will present how BRIN indexes can be used on geographical database based on PostgreSQL and its spatial extensions, showing how they can perform with a large amount of data such as LiDAR surveys.
 
+* [Slides](http://goo.gl/fDfYeO)
+
 ### Bulk processing, data sharing and visualization of Sentinel-derived products
 
 **Giulio Pagan Airbus Defence and Space / Thomas Lankester Airbus Defence and Space**
@@ -265,6 +267,8 @@ This workshop will cover how to install a local copy of GeoServer and take you t
 A workshop going through how to use loader to load OS MasterMap, OS OpenData and other OS GML datasets into PostgreSQL/PostGIS. 
 The workshop will use the portable GIS. 
 
+* [Workshop notes](http://aileenh.github.io/usingloader.html)
+
 ### Local Government working towards Scotland-wide spatial data
 
 **Ilona Kemeling Kemeling Consulting Limited / Dimitrios Michelakis The Improvement Service**
@@ -323,7 +327,9 @@ Leaflet aim's to be light weight. As such sometimes it misses out on functionali
 
 Talk discussion how to load MasterMap CoU data and techniques for maintaining history.
 Discusses how Astun Technology maintains its National Load of OS MasterMap using CoU data for its Astun Data Services.
-Also describes potential methods for maintaining change history,
+Also describes potential methods for maintaining change history.
+
+* [Slides](http://www.slideshare.net/AileenHealneeRomeril/foss4-guk2016-aileenheal)
 
 ### Mapping the of Heritage of Dartmoor National Park
 
@@ -604,6 +610,8 @@ I would also like to highlight the benefits of not only attending a Maptime but 
 There is a focus on the beginner and there is no jargon or selling at Maptime. Some people are experts and some people are just getting started, but all of us are learning, so why not do it together?
 
 For more information see: http://maptime.io/about/
+
+* [Slides](https://goo.gl/ms8Uxx)
 
 ### Can Open and Closed Play Nicely Together?
 
