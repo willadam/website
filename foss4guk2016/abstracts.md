@@ -258,6 +258,8 @@ The talk will conclude with an outline of the future roadmap for the application
 
 This workshop will cover how to install a local copy of GeoServer and take you through the steps required to produce your first web map. We will take a selection of Ordnance Survey OpenData (tm) and the provided SLD styles and produce a pretty map that you can use as a base map at home.
 
+* [Workshop notes](https://gitlab.com/ijturton/foss4guk-workshop)
+
 ### Loading OS MasterMap, OS OpenData and other OS GML datasets using Loader
 
 **Aileen Heal Astun Technology / Matt Walker Astun Technology**
