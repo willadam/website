@@ -17,6 +17,9 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 
 Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a surveying company where I design and develop GIS mapping solutions using Python, Django, PostgreSQL, PostGIS and AngularJS as Scrummaster of a team of 3. I have 4 years of experience working on successful projects using Java, Javascript and Python. I have a MSc. in Cybersecurity and a MSc. in Computer Science, and a professional membership with the British Computing Society.
 
+* [Slides](https://github.com/anushamc/foss4guk-django-openlayers/raw/master/presentation/GeoDjango%20and%20Openlayers%203.pptx)
+* [Material](https://github.com/anushamc/foss4guk-django-openlayers/)
+
 ###  A GI Node for the Environment
 
 **Matt Debont JNCC**
@@ -455,8 +458,8 @@ Materials Provided: Paper and electronic copies of detailed handouts to be used 
 
 Presenter Bio: I am a Senior Software Developer for Atlantic Geomatics, a surveying company where I design and develop GIS mapping solutions using Python, Django, PostgreSQL, PostGIS and AngularJS as Scrummaster of a team of 3. I have 4 years of experience working on successful projects using Java, Javascript and Python. I have a MSc. in Cybersecurity and a MSc. in Computer Science, and a professional membership with the British Computing Society.
 
-* [Presentation](https://github.com/anushamc/foss4guk-django-openlayers/raw/master/presentation/GeoDjango%20and%20Openlayers%203.pptx)
-* [Material](https://github.com/anushamc/foss4guk-django-openlayers/)
+* [Presentation](https://github.com/anushamc/foss4guk-django-tenants/raw/master/SaaSy%20maps.pptx)
+* [Material](https://github.com/anushamc/foss4guk-django-tenants)
 
 
 ### Species distribution modelling using open data
