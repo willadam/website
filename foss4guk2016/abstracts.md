@@ -359,6 +359,8 @@ The presentation will detail the purpose of the application, the technology behi
 
 With public sector budget cuts, Open Source GIS is an attractive way to save money. But migrating away from proprietary software has its own challenges. In this case study, we will present technical problems we faced to migrate the Newcastle City Council to Open Source GIS.
 
+* [Slides](https://github.com/saberraz/presentations/blob/master/foss4guk_migration-to-osgis_june_2016/foss4guk_migration-to-osgis_june_2016.pdf?raw=true)
+
 ### Now you see it: open software for processing open satellite data
 
 **Alastair Graham Geoger Ltd**
