@@ -369,6 +369,8 @@ With public sector budget cuts, Open Source GIS is an attractive way to save mon
 
 This presentation provides an overview of a series of available FOSS software tools used for scientific satellite image processing. It will use open data from the US Landsat and EU Sentinel platforms as a base from which to discuss a potential processing workflow using tools such as gdal, arcsi and others. The presentation will also reference work undertaken for Defra, an organisation looking to implement these datasets and FOSS for the benefit of its employees.
 
+* [Slides](http://ow.ly/UHIu301BfHJ)
+
 ### Open Collaboration and the Price of Butter
 
 **Andrea Ross Eclipse Foundation**
