@@ -4,11 +4,13 @@ layout: default
 
 ### Events
 
-* [FOSS4G UK 2016](/foss4guk2016) 14th-16th June 2016
-* [OSGeo:UK AGM 2016](./agm/agm2016.html) 5.30pm BST 14th June 2016
+* We're Pixel-level sponsors of [Rasters Revealed](https://rastersrevealed.net/)
+ 21st February 2017
 
 #### Past events
 
+* [FOSS4G UK 2016](/foss4guk2016) 14th-16th June 2016
+* [OSGeo:UK AGM 2016](./agm/agm2016.html) 5.30pm BST 14th June 2016
 * [PostGIS Day 2014](http://osgeouk.github.io/pgday/)
 * [FOSS4G 2013](http://2013.foss4g.org/)
 
