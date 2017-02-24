@@ -30,7 +30,7 @@ OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2
 
 In 2016 OSGeo:UK sponsored the following:
 
-* [QGIS Code Sprint, Lyon](ttps://github.com/qgis/QGIS/wiki/Code-Sprint-QGIS-3-Lyon,-end-2016): €500 
+* [QGIS Code Sprint, Lyon](https://github.com/qgis/QGIS/wiki/Code-Sprint-QGIS-3-Lyon,-end-2016): €500 
 * [QGIS Silver Sponsor](http://qgis.org/en/site/about/sponsorship.html): €2500
 * [Rasters Revealed](https://rastersrevealed.net/): £250
 
