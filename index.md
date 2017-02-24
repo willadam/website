@@ -4,8 +4,8 @@ layout: default
 
 ### Events
 
-* We're Pixel-level sponsors of [Rasters Revealed](https://rastersrevealed.net/)
- 21st February 2017
+Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea!
+
 
 #### Past events
 
@@ -27,6 +27,12 @@ OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2
 * Secretary: [Antony Scott](https://twitter.com/antscott)
 
 ### Donate
+
+In 2016 OSGeo:UK sponsored the following:
+
+* [QGIS Code Sprint, Lyon](ttps://github.com/qgis/QGIS/wiki/Code-Sprint-QGIS-3-Lyon,-end-2016): €500 
+* [QGIS Silver Sponsor](http://qgis.org/en/site/about/sponsorship.html): €2500
+* [Rasters Revealed](https://rastersrevealed.net/): £250
 
 Help us support and promote the use of open source geospatial software within the UK by donating via PayPal using the button below:
 
