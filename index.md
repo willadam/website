@@ -4,15 +4,7 @@ layout: default
 
 ### Events
 
-Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea!
-
-
-#### Past events
-
-* [FOSS4G UK 2016](/foss4guk2016) 14th-16th June 2016
-* [OSGeo:UK AGM 2016](./agm/agm2016.html) 5.30pm BST 14th June 2016
-* [PostGIS Day 2014](http://osgeouk.github.io/pgday/)
-* [FOSS4G 2013](http://2013.foss4g.org/)
+Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html) page for details of events we have supported or organised in the past
 
 ### Contact
 
@@ -26,13 +18,13 @@ OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2
 * Treasurer: [Steven Feldman](https://twitter.com/StevenFeldman)
 * Secretary: [Antony Scott](https://twitter.com/antscott)
 
+### Funding
+
+From time to time we may choose to financially support an open source GIS project, or help someone attend an event. See [funding guidelines](fundingguidelines.html) for more details on how to apply.
+
+See [past donations](pastdonations.html) for yearly breakdowns on the projects we have supported to date.
+
 ### Donate
-
-In 2016 OSGeo:UK sponsored the following:
-
-* [QGIS Code Sprint, Lyon](https://github.com/qgis/QGIS/wiki/Code-Sprint-QGIS-3-Lyon,-end-2016): €500 
-* [QGIS Silver Sponsor](http://qgis.org/en/site/about/sponsorship.html): €2500
-* [Rasters Revealed](https://rastersrevealed.net/): £250
 
 Help us support and promote the use of open source geospatial software within the UK by donating via PayPal using the button below:
 
@@ -42,5 +34,7 @@ Help us support and promote the use of open source geospatial software within th
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
 
 
