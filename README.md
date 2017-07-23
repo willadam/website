@@ -1,15 +1,9 @@
-# FOSS4G UK 2016 Website
+# New OSGeo logo
 
-http://uk.osgeo.org/foss4guk2016/
+To use- clone locally and checkout the newlayout branch. Make your changes and 
+and test locally after [setting up your pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
 
-## Updating the site
-
-To get a local copy of the repository clone it using git. There is only one
-`gh-pages` branch where the content and template lives.
-
-You can then edit the content and test locally after [setting up your pages
-site locally with
-Jekyll](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
+## Pushing to the live site
 
 Once you're happy with your changes and wish to publish them:
 
