@@ -8,12 +8,12 @@ adopted on the .................................................................
 
 ## PART 1
 
-###1. Adoption of the constitution###
+### 1. Adoption of the constitution###
 
   The association and its property will be administered and managed in
   accordance with the provisions in Parts 1 and 2 of this constitution.
 
-###2. Name###
+### 2. Name###
   
   The association’s name is:
 
@@ -21,7 +21,7 @@ adopted on the .................................................................
 
   (and in this document it is called the charity or the chapter).
 
-###3. Objects###
+### 3. Objects###
 
   The charity’s objects ('the objects') are:
 
@@ -73,7 +73,7 @@ accordance with section 7 of the Charities and Trustee Investment
 (Scotland) Act 2005 and/or section 2 of the Charities Act (Northern
 Ireland) 2008.]
 
-###4. Application of income and property###
+### 4. Application of income and property###
 
 1. The income and property of the charity shall be applied solely
     towards the promotion of the objects.
@@ -88,7 +88,7 @@ Ireland) 2008.]
     1. a benefit from the charity in the capacity of a beneficiary of the charity;
     2. reasonable and proper remuneration for any goods or services supplied to the charity.
 
-###5. Benefits and payments to charity trustees and connected persons###
+### 5. Benefits and payments to charity trustees and connected persons###
 
 1. General provisions
 
@@ -135,7 +135,7 @@ conditions is satisfied:
       3. has the right to appoint one or more trustees to the board of the company.
    2. 'connected person' includes any person within the definition set out in clause 34 (Interpretation).
 
-###6. Dissolution###
+### 6. Dissolution###
 
 1. If the members resolve to dissolve the charity the trustees will remain in office as charity trustees and be responsible for winding up the affairs of the charity in accordance with this clause. 
 2. The trustees must collect in all the assets of the charity and must pay or make provision for all the liabilities of the charity.
@@ -147,7 +147,7 @@ conditions is satisfied:
 5. In no circumstances shall the net assets of the charity be paid to or distributed among the members of the charity (except to a member that is itself a charity).
 6. The trustees must notify the Commission promptly that the charity has been dissolved. If the trustees are obliged to send the charity’s accounts to the Commission for the accounting period which ended before its dissolution, they must send the Commission the charity’s final accounts.
 
-###7.  Amendment of constitution###
+### 7.  Amendment of constitution###
 
 1. The charity may amend any provision contained in Part 1 of this constitution provided that:
    1. no amendment may be made that would have the effect of making the charity cease to be a charity at law;
@@ -158,9 +158,9 @@ conditions is satisfied:
 2. Any provision contained in Part 2 of this constitution may be amended, provided that any such amendment is made by resolution passed by a simple majority of the members present and voting at a general meeting.
 3. A copy of any resolution amending this constitution shall be sent to the Commission within twenty one days of it being passed.
 
-##Part 2##
+## Part 2##
 
-### 8.Membership###
+### 8. Membership###
 
 1. Membership is open to individuals over eighteen or organisations who are approved by the trustees.
 2. 
@@ -181,7 +181,7 @@ Membership is terminated if:
    1. the member has been given at least twenty one days’notice in writing of the meeting of the trustees at which the resolution will be proposed and the reasons why it is to be proposed; 
    2. the member or, at the option of the member, the member’s representative (who need not be a member of the charity) has been allowed to make representations to the meeting.
 
-###10.  General meetings###
+### 10.  General meetings###
 
 1. The charity must hold a general meeting within twelve months of the date of the adoption of this constitution.
 2. An annual general meeting must be held in each subsequent year and not more than fifteen months may elapse between successive annual general meetings.
@@ -189,14 +189,14 @@ Membership is terminated if:
 4. The trustees may call a special general meeting at any time.
 5. The trustees must call a special general meeting if requested to do so in writing by at least ten members or one tenth of the membership, which ever is the greater. The request must state the nature of the business that is to be discussed. If the trustees fail to hold the meeting within twenty-eight days of the request, the members may proceed to call a special general meeting but in doing so they must comply with the provisions of this constitution.
 
-###11.  Notice###
+### 11.  Notice###
 
 1. The minimum period of notice required to hold any general meeting of the charity is fourteen clear days from the date on which the notice is deemed to have been given.
 2. A general meeting may be called by shorter notice, if it is so agreed by all the members entitled to attend and vote. 
 3. The notice must specify the date, time and place of the meeting and the general nature of the business to be transacted. If the meeting is to be an annual general meeting, the notice must say so.
 4. The notice must be given to all the members and to the trustees.
 
-###12.  Quorum###
+### 12.  Quorum###
 
 1. No business shall be transacted at any general meeting unless a quorum is present. 
 2. A quorum is:
@@ -211,32 +211,32 @@ Membership is terminated if:
 5. The trustees must re-convene the meeting and must give at least seven clear days’ notice of the re-convened meeting stating the date time and place of the meeting.
 6. If no quorum is present at the re-convened meeting within fifteen minutes of the time specified for the start of the meeting the members present at that time shall constitute the quorum for that meeting.
 
-###13.  Chair###
+### 13.  Chair###
 
 1. General meetings shall be chaired by the person who has been elected as Chair. 
 2. If there is no such person or he or she is not present within fifteen minutes of the time appointed for the meeting a trustee nominated by the trustees shall chair the meeting. 
 3. If there is only one trustee present and willing to act, he or she shall chair the meeting. 
 4. If no trustee is present and willing to chair the meeting within fifteen minutes after the time appointed for holding it, the members present and entitled to vote must choose one of their number to chair the meeting.
 
-###14.  Adjournments###
+### 14.  Adjournments###
 
 1. The members present at a meeting may resolve that the meeting shall be adjourned. 
 2. The person who is chairing the meeting must decide the date time and place at which meeting is to be re-convened unless those details are specified in the resolution.
 3. No business shall be conducted at an adjourned meeting unless it could properly have been conducted at the meeting had the adjournment not taken place. 
 4. If a meeting is adjourned by a resolution of the members for more than seven days, at least seven clear days’ notice shall be given of the re-convened meeting stating the date time and place of the meeting.
 
-###15.  Votes###
+### 15.  Votes###
 
 1. Each member shall have one vote but if there is an equality of votes the person who is chairing the meeting shall have a casting vote in addition to any other vote he or she may have. 
 2. A resolution in writing signed by each member (or in the case of a member that is an organisation, by its authorised representative) who would have been entitled to vote upon it had it been proposed at a general meeting shall be effective. It may comprise several copies each signed by or on behalf of one or more members.
 
-###16.  Representatives of other bodies###
+### 16.  Representatives of other bodies###
 
 1. Any organisation that is a member of the charity may nominate any person to act as its representative at any meeting of the charity. 
 2. The organisation must give written notice to the charity of the name of its representative. The nominee shall not be entitled to represent the organisation at any meeting unless the notice has been received by the charity. The nominee may continue to represent the organisation until written notice to the contrary is received by the charity. 
 3. Any notice given to the charity will be conclusive evidence that the nominee is entitled to represent the organisation or that his or her authority has been revoked. The charity shall not be required to consider whether the nominee has been properly appointed by the organisation.
 
-###17.  Officers and trustees###
+### 17.  Officers and trustees###
 
 1. The charity and its property shall be managed and administered by a committee comprising the officers and other members elected in accordance with this constitution. The officers and other members of the committee shall be the trustees of the Charity and in this constitution are together called 'the trustees'. 
 2. The charity shall have the following officers: 
@@ -250,7 +250,7 @@ Membership is terminated if:
 6. The first trustees (including officers) shall be those persons elected as trustees and officers at the meeting at which this constitution is adopted. 
 7. A trustee may not appoint anyone to act on his or her behalf at meetings of the trustees.
 
-###18.  Appointment of trustees###
+### 18.  Appointment of trustees###
 
 1. The charity in general meeting shall elect the officers and the other trustees. 
 2. The trustees may appoint any person who is willing to act as a trustee. Subject to sub-clause 5(b) of this clause, they may also appoint trustees to act as officers. 
@@ -264,7 +264,7 @@ Membership is terminated if:
     1. The appointment of a trustee, whether by the charity in general meeting or by the other trustees, must not cause the number of trustees to exceed any number fixed in accordance with this constitution as the maximum number of trustees.
     2. The trustees may not appoint a person to be an officer if a person has already been elected or appointed to that office and has not vacated the office.
 
-###19.  Powers of trustees###
+### 19.  Powers of trustees###
 
 1. The trustees must manage the business of the charity and have the following powers in order to further the objects (but not for any other purpose): 
    1. to raise funds. In doing so, the trustees must not undertake any taxable permanent trading activity and must comply with any relevant statutory regulations; 
@@ -282,7 +282,7 @@ Membership is terminated if:
 2. No alteration of this constitution or any special resolution shall have retrospective effect to invalidate any prior act of the trustees.
 3. Any meeting of trustees at which a quorum is present at the time the relevant decision is made may exercise all the powers exercisable by the trustees.
 
-###20.  Disqualification and removal of trustees###
+### 20.  Disqualification and removal of trustees###
 
 A trustee shall cease to hold office if he or she:
 
@@ -292,7 +292,7 @@ A trustee shall cease to hold office if he or she:
 4. resigns as a trustee by notice to the charity (but only if at least two trustees will remain in office when the notice of resignation is to take effect); or 
 5. is absent without the permission of the trustees from all their meetings held within a period of six consecutive months and the trustees resolve that his or her office be vacated.
 
-###21.  Proceedings of trustees###
+### 21.  Proceedings of trustees###
 
 1. The trustees may regulate their proceedings as they think fit, subject to the provisions of this constitution.
 2. Any trustee may call a meeting of the trustees. 
@@ -309,7 +309,7 @@ A trustee shall cease to hold office if he or she:
 13. A resolution in writing signed by all the trustees entitled to receive notice of a meeting of trustees or of a committee of trustees and to vote upon the resolution shall be as valid and effectual as if it had been passed at a meeting of the trustees or (as the case may be) a committee of trustees duly convened and held. 
 14. The resolution in writing may comprise several documents containing the text of the resolution in like form each signed by one or more trustees.
 
-###22.  Conflicts of interests and conflicts of loyalties###
+### 22.  Conflicts of interests and conflicts of loyalties###
 
 A charity trustee must:
 
@@ -320,7 +320,7 @@ Any charity trustee absenting himself or herself from any discussions in
 accordance with this clause must not vote or be counted as part of the
 quorum in any decision of the charity trustees on the matter.
 
-###23.  Saving provisions###
+### 23.  Saving provisions###
 
 1. Subject to sub-clause (2) of this clause, all decisions of the charity trustees, or of a committee of the charity trustees, shall be valid notwithstanding the participation in any vote of a charity trustee: 
    1. who is disqualified from holding office; 
@@ -331,7 +331,7 @@ quorum in any decision of the charity trustees on the matter.
  
 2. Sub-clause (1) of this clause does not permit a charity trustee to keep any benefit that may be conferred upon him or her by a resolution of the charity trustees or of a committee of charity trustees if, but for sub-clause (1), the resolution would have been void, or if the charity trustee has not complied with clause 22 (Conflicts of interests and conflicts of loyalties).
 
-###24.  Delegation###
+### 24.  Delegation###
 
 1. The trustees may delegate any of their powers or functions to a committee of two or more trustees but the terms of any such delegation must be recorded in the minute book.
 2. The trustees may impose conditions when delegating, including the conditions that: 
@@ -341,7 +341,7 @@ quorum in any decision of the charity trustees on the matter.
 3. The trustees may revoke or alter a delegation. 
 4. All acts and proceedings of any committees must be fully and promptly reported to the trustees.
 
-###25.  Irregularities in proceedings###
+### 25.  Irregularities in proceedings###
 
 1. Subject to sub-clause (2) of this clause, all acts done by a meeting of Trustees, or of a committee of trustees, shall be valid notwithstanding the participation in any vote of a trustee:
    1. who was disqualified from holding office;
@@ -362,7 +362,7 @@ quorum in any decision of the charity trustees on the matter.
    
    shall be invalidated by reason of the failure to give notice to any trustee or member or by reason of any procedural defect in the meeting unless it is shown that the failure or defect has materially prejudiced a member or the beneficiaries of the charity.
 
-###26.  Minutes###
+### 26.  Minutes###
 
 The trustees must keep minutes of all:
 
@@ -374,7 +374,7 @@ The trustees must keep minutes of all:
    2. the decisions made at the meetings; and
    3. where appropriate the reasons for the decisions.
 
-###27.  Accounts, Annual Report, Annual Return###
+### 27.  Accounts, Annual Report, Annual Return###
 
 1. The trustees must comply with their obligations under the Charities Act 2011 with regard to: 
 
@@ -386,12 +386,12 @@ The trustees must keep minutes of all:
 
 2. Accounts must be prepared in accordance with the provisions of any Statement of Recommended Practice issued by the Commission, unless the trustees are required to prepare accounts in accordance with the provisions of such a Statement prepared by another body.
 
-###28.  Registered particulars###
+### 28.  Registered particulars###
 
   The trustees must notify the Commission promptly of any changes to the
 charity’s entry on the Central Register of Charities.
 
-###29.  Property###
+### 29.  Property###
 
 1. The trustees must ensure the title to: 
 
@@ -401,7 +401,7 @@ charity’s entry on the Central Register of Charities.
 2. The terms of the appointment of any holding trustees must provide that they may act only in accordance with lawful directions of the trustees and that if they do so they will not be liable for the acts and defaults of the trustees or of the members of the charity. 
 3. The trustees may remove the holding trustees at any time.
 
-###30.  Repair and insurance###
+### 30.  Repair and insurance###
 
 The trustees must keep in repair and insure to their full value against
 fire and other usual risks all the buildings of the charity (except
@@ -409,7 +409,7 @@ those buildings that are required to be kept in repair and insured by a
 tenant). They must also insure suitably in respect of public liability
 and employer’s liability.
 
-###31.  Notices###
+### 31.  Notices###
 
 1. Any notice required by this constitution to be given to or by
     any person must be:
@@ -431,7 +431,7 @@ and employer’s liability.
     2. Proof that a notice contained in an electronic communication was sent in accordance with guidance issued by the Institute of Chartered Secretaries and Administrators shall be conclusive evidence that the notice was given.
     3. A notice shall be deemed to be given 48 hours after the envelope containing it was posted or, in the case of an electronic communication, 48 hours after it was sent.
 
-###32.  Rules###
+### 32.  Rules###
 
 1. The trustees may from time to time make rules or bye-laws for the conduct of their business.
 2. The bye-laws may regulate the following matters but are not restricted to them: 
@@ -447,11 +447,11 @@ and employer’s liability.
 4. The trustees must adopt such means as they think sufficient to bring the rules and bye-laws to the notice of members of the charity.
 5. The rules or bye-laws shall be binding on all members of the charity. No rule or bye-law shall be inconsistent with, or shall affect or repeal anything contained in, this constitution.
 
-###33.  Disputes###
+### 33.  Disputes###
 
    If a dispute arises between members of the charity about the validity or propriety of anything done by the members under this constitution, and the dispute cannot be resolved by agreement, the parties to the dispute must first try in good faith to settle the dispute by mediation before resorting to litigation. dispute to have tried mediation first.
 
-###34.  Interpretation###
+### 34.  Interpretation###
 
   In this constitution ‘connected person’ means:
 
