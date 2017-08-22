@@ -4,7 +4,7 @@ layout: constitution
 
 # Open Source Geospatial Foundation, UK Chapter Constitution
 
-adopted on the ............................................................................
+adopted on the 22nd August 2017
 
 ## PART 1
 
