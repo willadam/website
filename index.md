@@ -18,6 +18,8 @@ OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2
 * Treasurer: [Steven Feldman](https://twitter.com/StevenFeldman)
 * Secretary: [Antony Scott](https://twitter.com/antscott)
 
+As of August 2017 we're working towards registration as a Charitable Organisation. This is in progress, but our adopted constitution can be found [here](/files/OSGeoUK_Final_Charity_Constitution.html)
+
 ### Funding
 
 From time to time we may choose to financially support an open source GIS project, or help someone attend an event. See [funding guidelines](fundingguidelines.html) for more details on how to apply.
