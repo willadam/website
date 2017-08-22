@@ -1,6 +1,6 @@
 header #logo {
     background-image: url(../images/OSGeoUK2.png);
-    background-image: url(../images/OSGeoUK2.svg);
+    /*background-image: url(../images/OSGeoUK2.svg);*/
     background-repeat: no-repeat;
     height: 80px;
     width: 140px;

@@ -25,7 +25,7 @@ adopted on the .................................................................
 
   The charity’s objects ('the objects') are:
 
-  The Chapter supports the aims of the global OSGeo Foundation([http://www.osgeo.org](http://www.osgeo.org/)) within the UK. It acts as a focal point for developers and users of open source geospatial software within the UK, for networking and advice, and to raise the profile of open source geospatial development within the UK. It promotes open source geospatial software as a viable choice for all types of user, thereby providing opportunities for access to software to those who would not otherwise able to use it.
+  The Chapter supports the aims of the global OSGeo Foundation ([http://www.osgeo.org](http://www.osgeo.org/)) within the UK. It acts as a focal point for developers and users of open source geospatial software within the UK, for networking and advice, and to raise the profile of open source geospatial development within the UK. It promotes open source geospatial software as a viable choice for all types of user, thereby providing opportunities for access to software to those who would not otherwise able to use it.
 
   **Method of Operation:**
 
@@ -200,8 +200,8 @@ Membership is terminated if:
 
 1. No business shall be transacted at any general meeting unless a quorum is present. 
 2. A quorum is:
-   1. **3** members entitled to vote upon the business to be conducted at the meeting; or 
-   2. **one tenth of the total membership at the time**, whichever is the greater.
+   1. 3 members entitled to vote upon the business to be conducted at the meeting; or 
+   2. one tenth of the total membership at the time, whichever is the greater.
 
 3. The authorised representative of a member organisation shall be counted in the quorum. 
 4. If:
