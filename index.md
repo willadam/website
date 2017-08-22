@@ -4,27 +4,27 @@ layout: default
 
 ### Events
 
-Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html) page for details of events we have supported or organised in the past
+Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past
 
 ### Contact
 
-For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk)
+For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}
 
 ### Legal
 
-OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016, can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf)
+OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016, can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf){:target="_newpage"}
 
 * Chair: [Jo Cook](https://twitter.com/archaeogeek)
 * Treasurer: [Steven Feldman](https://twitter.com/StevenFeldman)
 * Secretary: [Antony Scott](https://twitter.com/antscott)
 
-As of August 2017 we're working towards registration as a Charitable Organisation. This is in progress, but our adopted constitution can be found [here](/files/OSGeoUK_Final_Charity_Constitution.html)
+As of August 2017 we're working towards registration as a Charitable Organisation. This is in progress, but our adopted constitution can be found [here](/files/OSGeoUK_Final_Charity_Constitution.html){:target="_newpage"}
 
 ### Funding
 
-From time to time we may choose to financially support an open source GIS project, or help someone attend an event. See [funding guidelines](fundingguidelines.html) for more details on how to apply.
+From time to time we may choose to financially support an open source GIS project, or help someone attend an event. See [funding guidelines](fundingguidelines.html){:target="_newpage"} for more details on how to apply.
 
-See [past donations](pastdonations.html) for yearly breakdowns on the projects we have supported to date.
+See [past donations](pastdonations.html){:target="_newpage"} for yearly breakdowns on the projects we have supported to date.
 
 ### Donate
 
