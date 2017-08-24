@@ -121,7 +121,7 @@ conditions is satisfied:
 
    1. The amount or maximum amount of the payment for the services or goods is set out in an agreement in writing between the  charity and the charity trustee or connected person supplying the services or goods (‘the supplier’) under which the supplier is to supply the services goods in question to or on behalf of the charity.
    2. The amount or maximum amount of the payment for the services or goods does not exceed what is reasonable in the circumstances for the supply of the goods in question.
-   3. The other charity trustees are satisfied that it is in the best interests of the charity to contract with the supplier rather than with someone who is not a charity trustee orconnected person. In reaching that decision the charity trustees must balance the advantage of contracting with a charity trustee or connected person against the disadvantages of doing so.
+   3. The other charity trustees are satisfied that it is in the best interests of the charity to contract with the supplier rather than with someone who is not a charity trustee or connected person. In reaching that decision the charity trustees must balance the advantage of contracting with a charity trustee or connected person against the disadvantages of doing so.
    4. The supplier is absent from the part of any meeting at which there is discussion of the proposal to enter into a contract or arrangement with him or her or it with regard to the supply of services or goods to the charity.
    5. The supplier does not vote on any such matter and is not to be counted when calculating whether a quorum of charity trustees is present at the meeting.
    6. The reason for their decision is recorded by the charity trustees in the minute book.
