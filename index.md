@@ -14,9 +14,17 @@ For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our ma
 
 OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016, can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf){:target="_newpage"}
 
+__Officers__
+
 * Chair: [Jo Cook](https://twitter.com/archaeogeek)
 * Treasurer: [Steven Feldman](https://twitter.com/StevenFeldman)
 * Secretary: [Antony Scott](https://twitter.com/antscott)
+
+__Trustees__
+
+* [Dave Barter](https://twitter.com/NautoGuide)
+* [Alastair Graham](https://twitter.com/ajggeoger)
+* [Matt Travis](https://twitter.com/Yakus)
 
 As of August 2017 we're working towards registration as a Charitable Organisation. This is in progress, but our adopted constitution can be found [here](/files/OSGeoUK_Final_Charity_Constitution.html){:target="_newpage"}
 
