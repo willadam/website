@@ -6,35 +6,35 @@ layout: default
 
 7th September 2017
 
-## Officers and Trustees Present
+### Officers and Trustees Present
 
 * 
 
-## Minutes of Previous Meeting
+### Minutes of Previous Meeting
 
 * 
 
-## Reports and Accounts
+### Reports and Accounts
 
 * 
 
-## Appointment of Officers 
+### Appointment of Officers 
 
 * 
 
-## Charitable Status
+### Charitable Status
 
 * 
 
-## Future Events
+### Future Events
 
 * 
 
-## Any Other Business
+### Any Other Business
 
 * 
 
-## Date of next AGM
+### Date of next AGM
 
 *
 
