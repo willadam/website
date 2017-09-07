@@ -8,7 +8,12 @@ layout: default
 
 ### Officers and Trustees Present
 
-* 
+*
+
+#### Apologies for Absence
+
+* Antony Scott (Secretary)
+
 
 ### Minutes of Previous Meeting
 
@@ -20,7 +25,7 @@ layout: default
 
 ### Appointment of Officers 
 
-* 
+* Antony Scott confirms in advance that he is happy to stand again this year
 
 ### Charitable Status
 
