@@ -27,7 +27,7 @@ layout: default
 * Nothing happened in the second accounting period!
 * Profit of ~ £4500
 * Tax due December 2017
-* Donations made to QGIS Code Sprintm QGIS Silver Sponsor, Rasters Revealed
+* Donations made to QGIS Code Sprint, QGIS Silver Sponsor, Rasters Revealed
 * Accounts accepted
 
 ### Appointment of Officers 
