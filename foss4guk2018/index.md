@@ -11,13 +11,13 @@ On the 9th to 10th of March 2018, OSGeo:UK will be bringing together all those i
 FOSS4GUK 2018 is organised entirely by volunteers. We're currently in the process of formalising our organising committee. As it stands, we are looking for the following roles:
 
 * **Workshop Coordinator** - Make sure workshops go smoothly for all involved
-* **Sponsor Coordinate** - Find and coordinate relationships with sponsors
 * **Marketing and Social Media Coordinator** - Help promote FOSS4G UK 2018!
 * **Head of Social Affairs** - Arguably one of the most important roles; help organise the after party on the Thursday!
 * **Swag Coordinator** - Help organise tshirt and sticker printing for the event
-* **Code Spring Coordinator** - Help find a venue and coordinate food/drink for a codesprint on the Saturday
+* **Code Sprint Coordinator** - Help find a venue and coordinate food/drink for a codesprint on the Saturday
 
 If you are interested please speak to [James Milner](https://www.twitter.com/JamesLMilner)
+
 
 ### What
 
