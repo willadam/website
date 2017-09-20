@@ -14,6 +14,10 @@ __AGM: September 7th 1.00PM (BST) via Google Hangout. Public link for joining to
 
 For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}
 
+### Training
+
+See the [training page](training.html) for details of upcoming training courses related to OSGeo projects.
+
 ### Legal
 
 OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016, can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf){:target="_newpage"}
