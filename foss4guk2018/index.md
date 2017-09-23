@@ -13,11 +13,20 @@ FOSS4GUK 2018 is organised entirely by volunteers. We're currently in the proces
 * **Workshop Coordinator** - Make sure workshops go smoothly for all involved
 * **Marketing and Social Media Coordinator** - Help promote FOSS4G UK 2018!
 * **Head of Social Affairs** - Arguably one of the most important roles; help organise the after party on the Thursday!
-* **Swag Coordinator** - Help organise tshirt and sticker printing for the event
 * **Code Sprint Coordinator** - Help find a venue and coordinate food/drink for a codesprint on the Saturday
 
-If you are interested please speak to [James Milner](https://www.twitter.com/JamesLMilner)
+If you are interested please speak to [James Milner](https://www.twitter.com/JamesLMilner). 
 
+# Committee 
+
+The current committee line up is:
+
+* **Chair** - James Milner (3D Repo)
+* **Co-Chair** - Tom Chadwin (Northumberland National Park)
+* **Events Coordinator** - Isabel Ulitzsch (Geovation)
+* **Treasurer** - Steven Feldman (KnowWhere Consulting)
+* **Swag Coordinator** - Sam Franklin (DeepSky Consulting)
+* **Sponsor Coordinator** - Max Stephan (Geovation)
 
 ### What
 

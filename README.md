@@ -3,6 +3,10 @@
 To use- clone locally and checkout the newlayout branch. Make your changes and 
 and test locally after [setting up your pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
 
+To serve locally with jekyll you can run:
+
+```bundle exec jekyll serve``` 
+
 ## Pushing to the live site
 
 Once you're happy with your changes and wish to publish them:

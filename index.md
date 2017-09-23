@@ -2,13 +2,13 @@
 layout: default
 ---
 
+### FOSS4G 2018 
+
+We are currently planning FOSS4G UK 2018. If you would like to get involved please see the [FOSS4G UK 2018 page](./foss4guk2018/).
+
 ### Events
 
-Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past
-
-__AGM: September 7th 1.00PM (BST) via Google Hangout. Public link for joining to be provided here on the day__
-
-* [Agenda](agm/agm2017.html){:target="_newpage"}
+Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
 ### Contact
 

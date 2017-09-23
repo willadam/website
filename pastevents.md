@@ -4,6 +4,10 @@ layout: default
 
 ### Past events
 
+#### 2017 
+
+* [OSGeo:UK AGM 2017](./agm/agm2017.html)
+
 #### 2016
 
 * [FOSS4G UK 2016](/foss4guk2016) 14th-16th June 2016
