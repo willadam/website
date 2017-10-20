@@ -10,10 +10,9 @@ On the 9th to 10th of March 2018, OSGeo:UK will be bringing together all those i
 
 FOSS4GUK 2018 is organised entirely by volunteers. We're currently in the process of formalising our organising committee. As it stands, we are looking for the following roles:
 
-* **Workshop Coordinator** - Make sure workshops go smoothly for all involved
-* **Marketing and Social Media Coordinator** - Help promote FOSS4G UK 2018!
 * **Head of Social Affairs** - Arguably one of the most important roles; help organise the after party on the Thursday!
 * **Code Sprint Coordinator** - Help find a venue and coordinate food/drink for a codesprint on the Saturday
+* **Marketing and Social Media Coordinator** - Help promote FOSS4G UK 2018!
 
 If you are interested please speak to [James Milner](https://www.twitter.com/JamesLMilner). 
 
@@ -27,6 +26,7 @@ The current committee line up is:
 * **Treasurer** - Steven Feldman (KnowWhere Consulting)
 * **Swag Coordinator** - Sam Franklin (DeepSky Consulting)
 * **Sponsor Coordinator** - Max Stephan (Geovation)
+* **Workshop Coordinator** - Nick Bearman (Clear Mapping)
 
 ### What
 
