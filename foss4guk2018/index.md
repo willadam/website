@@ -6,6 +6,13 @@ layout: foss4guk2018
 
 On the 9th to 10th of March 2018, OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The format and agenda is to be announced, but we're hoping to make it a great event! 
 
+### Call for Papers Open
+
+Our call for papers is now open. The deadline is January 8th.
+
+* [Workshop Submission](https://docs.google.com/forms/d/1EkvwsftL_pFEZTy4GQSwZDvFVNo4H42M10i5nc1p3Jw/)
+* [Paper Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
+
 ### We Need Your Help!
 
 The committee is now in place, but we are still looking for volunteers and also sponsors. Please contact Max Stephan if you are interested in hearing about the various sponsorship packages available.
