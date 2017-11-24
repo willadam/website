@@ -4,17 +4,11 @@ layout: foss4guk2018
 
 <h1> FOSS4G UK 2018 </h1>
 
-On the 9th to 10th of March 2018, OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The format and agenda is to be announced, but we're hoping to make it a great event! But...
+On the 9th to 10th of March 2018, OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The format and agenda is to be announced, but we're hoping to make it a great event! 
 
 ### We Need Your Help!
 
-FOSS4GUK 2018 is organised entirely by volunteers. We're currently in the process of formalising our organising committee. As it stands, we are looking for the following roles:
-
-* **Head of Social Affairs** - Arguably one of the most important roles; help organise the after party on the Thursday!
-* **Code Sprint Coordinator** - Help find a venue and coordinate food/drink for a codesprint on the Saturday
-* **Marketing and Social Media Coordinator** - Help promote FOSS4G UK 2018!
-
-If you are interested please speak to [James Milner](https://www.twitter.com/JamesLMilner). 
+The committee is now in place, but we are still looking for volunteers and also sponsors. Please contact Max Stephan if you are interested in hearing about the various sponsorship packages available.
 
 # Committee 
 
@@ -27,6 +21,9 @@ The current committee line up is:
 * **Swag Coordinator** - Sam Franklin (DeepSky Consulting)
 * **Sponsor Coordinator** - Max Stephan (Geovation)
 * **Workshop Coordinator** - Nick Bearman (Clear Mapping)
+* **Party Planner** - Dennis Bauszus
+
+* **Code Sprint Coordinators** - Dennis Bauszus / Tom Chadwin / James Milner
 
 ### What
 
@@ -74,11 +71,11 @@ To be announced
 
 ### Code Sprint
 
-We want to make this happen, but we need your help! Got a space you can give us for the Saturday (March 11th)? Can you help provide coffee and catering for the event? Let us know!
+As it stands we currently have a proposed venue that we will annouce in the next month or so upon confirmation. 
 
 ### [Sponsorship](sponsors.html)
 
-We want to keep the cost of entry to FOSS4GUK as low as possible - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
+We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
 
 <!-- ### Students
 
