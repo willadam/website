@@ -27,7 +27,7 @@ The current committee line up is:
 
 ### What
 
-Conference format to be confirmed, but expect something similar to [FOSS4G UK 2016]() (Southampton), and/or [FOSS4G 2013, Nottingham](http://2013.foss4g.org/) only somewhat smaller.
+Conference format to be confirmed, but expect something similar to [FOSS4G UK 2016](http://uk.osgeo.org/foss4guk2016/) (Southampton), and/or [FOSS4G 2013, Nottingham](http://2013.foss4g.org/) only somewhat smaller.
 [![FOSS4G 2013](./images/foss4g2013.jpg)](./images/foss4g2013.jpg)
 
 ### When
