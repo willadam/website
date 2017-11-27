@@ -4,9 +4,17 @@ layout: foss4guk2018
 
 <h1> FOSS4G UK 2018 </h1>
 
-On the 8th to 9th of March 2018 (and the 10th of the Code Sprint!), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The format and agenda is to be announced, but we're hoping to make it a great event! 
+On the 8th to 9th of March 2018 (and the 10th of the Code Sprint!), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The agenda and keynotes will be announced over the coming months and we're looking to make it a great event at a accessible price point.
 
-### We Need Your Help!
+# Call for Papers Open
+
+Our call for papers is now open. The deadline is January 8th.
+
+* [Workshop Submission](https://docs.google.com/forms/d/1EkvwsftL_pFEZTy4GQSwZDvFVNo4H42M10i5nc1p3Jw/)
+* [Paper Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
+
+
+# We Need Your Help!
 
 The committee is now in place, but we are still looking for volunteers and also sponsors. Please contact Max Stephan if you are interested in hearing about the various sponsorship packages available.
 
@@ -24,6 +32,8 @@ The current committee line up is:
 * **Party Planner** - Dennis Bauszus
 
 * **Code Sprint Coordinators** - Dennis Bauszus / Tom Chadwin / James Milner
+
+# The Event
 
 ### What
 
@@ -88,14 +98,14 @@ Thanks to the generosity of the AGI and our other sponsors we have some free pla
 
 **Confirm that you can meet your own travel and accommodation costs - FOSS4GUK will pay the delegate fee, lunches and attendance at the party on Tuesday night** -->
 
-### Code of Conduct
+# Code of Conduct
 Participants at FOSS4G UK 2018 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
 
-### Contact
+# Contact
 
 For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk).
 
-### Donate
+# Donate
 
 Help us support and promote the use of open source geospatial software within the UK by donating via PayPal using the button below:
 
