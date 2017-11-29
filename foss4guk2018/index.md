@@ -8,10 +8,10 @@ On the 8th to 9th of March 2018 (and the 10th of the Code Sprint!), OSGeo:UK wil
 
 # Call for Papers Open
 
-Our call for papers is now open. The deadline is January 8th.
+Our call for papers for our workshop and presentation tracks are now open. The deadline for both is **January 8th**.
 
 * [Workshop Submission](https://docs.google.com/forms/d/1EkvwsftL_pFEZTy4GQSwZDvFVNo4H42M10i5nc1p3Jw/)
-* [Paper Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
+* [Presentation Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
 
 
 # We Need Your Help!
